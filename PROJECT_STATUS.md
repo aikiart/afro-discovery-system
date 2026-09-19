@@ -1,11 +1,10 @@
-## Current Direction
+## Architecture Update
 
-Using a query-driven Discovery Agent.
+Search providers will be abstracted behind SearchService.
 
-Discovery searches will be based on topics rather than manually maintained website lists.
-
-Potential future providers:
+Future providers:
 - Bing
 - Brave
 - Tavily
-- Other search APIs
+- SearchAPI.io
+- Custom crawler
