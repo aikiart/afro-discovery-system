@@ -1,21 +1,16 @@
-# agents/database_agent.py
+from services.firebase_service import FirebaseService
 
-import json
 
 class DatabaseAgent:
 
+    def __init__(self):
+
+        self.firebase = FirebaseService()
+
     def save(self, data):
 
-        with open(
-            "data/categorized_results.json",
-            "w",
-            encoding="utf-8"
-        ) as file:
+        self.firebase.save_resource(data)
 
-            json.dump(
-                data,
-                file,
-                indent=4
-            )
-
-        print("Results saved.")
+        print(
+            "Saved to Firebase."
+        )

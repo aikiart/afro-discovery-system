@@ -2,12 +2,9 @@ from agents.discovery_agent import DiscoveryAgent
 
 agent = DiscoveryAgent()
 
-results = agent.search(
-    "African fintech apps"
-)
+queries = agent.load_queries()
 
-agent.save_results(results)
+print("\nDiscovery Queries:\n")
 
-print(
-    f"Found {len(results)} results."
-)
+for query in queries:
+    print(query)
