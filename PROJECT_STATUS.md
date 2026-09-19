@@ -1,14 +1,11 @@
-## Latest Progress
+## Current Direction
 
-- GitHub authentication fixed
-- Repository successfully connected to VS Code
-- Initial project pushed to GitHub
-- Branch main tracking origin/main
+Using a query-driven Discovery Agent.
 
-## Current Status
+Discovery searches will be based on topics rather than manually maintained website lists.
 
-Project is safely backed up.
-
-## Next Development Task
-
-Connect Discovery Agent to Brave Search API and retrieve live data.
+Potential future providers:
+- Bing
+- Brave
+- Tavily
+- Other search APIs

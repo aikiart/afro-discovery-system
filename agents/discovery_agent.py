@@ -1,24 +1,34 @@
 import json
+from duckduckgo_search import DDGS
+
 
 class DiscoveryAgent:
 
     def search(self, query):
 
-        print(f"Searching for: {query}")
+        print(f"Searching: {query}")
 
-        return {
-            "query": query,
-            "results": [
-                {
-                    "name": "African Leadership Academy",
-                    "url": "https://www.africanleadershipacademy.org"
-                },
-                {
-                    "name": "Black Founders",
-                    "url": "https://blackfounders.com"
-                }
-            ]
-        }
+        results = []
+
+        with DDGS() as ddgs:
+
+            search_results = ddgs.text(
+                query,
+                max_results=10
+            )
+
+            for item in search_results:
+
+                results.append(
+                    {
+                        "query": query,
+                        "title": item.get("title", ""),
+                        "url": item.get("href", ""),
+                        "description": item.get("body", "")
+                    }
+                )
+
+        return results
 
     def save_results(self, data):
 
