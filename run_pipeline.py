@@ -1,10 +1,12 @@
 from agents.discovery_agent import DiscoveryAgent
 from agents.scraper_agent import ScraperAgent
 from agents.database_agent import DatabaseAgent
+from agents.categorizer_agent import CategorizerAgent
 
 discovery = DiscoveryAgent()
 scraper = ScraperAgent()
 database = DatabaseAgent()
+categorizer = CategorizerAgent()
 
 print("\nStarting Discovery Pipeline...\n")
 
@@ -20,6 +22,12 @@ for item in results:
         item["url"]
     )
 
+    category_data = (
+        categorizer.categorize(
+            scraped
+        )
+    )
+
     resource = {
         "site_name": scraped.get(
             "title",
@@ -33,21 +41,35 @@ for item in results:
             "description",
             ""
         ),
-        "contact_email": (
-            scraped["emails"][0]
-            if scraped.get("emails")
-            else ""
+        "emails": scraped.get(
+            "emails",
+            []
         ),
-        "phone": "",
+        "phones": scraped.get(
+            "phones",
+            []
+        ),
         "social_links": scraped.get(
             "social_links",
             []
         ),
-        "category": "Uncategorized",
-        "tags": [],
+        "contact_pages": scraped.get(
+            "contact_pages",
+            []
+        ),
+        "category": category_data[
+            "category"
+        ],
+        "tags": category_data[
+            "tags"
+        ],
         "query": item["query"]
     }
 
-    database.save(resource)
+    database.save(
+        resource
+    )
 
-print("\nPipeline Complete.\n")
+print(
+    "\nPipeline Complete.\n"
+)
