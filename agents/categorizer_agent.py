@@ -1,28 +1,89 @@
-# agents/categorizer_agent.py
-
 class CategorizerAgent:
 
-    def categorize(self, data):
+    def categorize(self, scraped):
 
         text = (
-            data.get("title", "") +
-            " " +
-            data.get("description", "")
+            scraped.get(
+                "title",
+                ""
+            )
+            + " "
+            + scraped.get(
+                "description",
+                ""
+            )
         ).lower()
 
-        if "education" in text:
-            return "Education"
+        if any(
+            word in text
+            for word in [
+                "fintech",
+                "finance",
+                "bank",
+                "payment"
+            ]
+        ):
+            return {
+                "category": "Fintech",
+                "tags": [
+                    "finance",
+                    "africa"
+                ]
+            }
 
-        if "health" in text:
-            return "Health"
+        if any(
+            word in text
+            for word in [
+                "education",
+                "learning",
+                "school",
+                "training"
+            ]
+        ):
+            return {
+                "category": "Education",
+                "tags": [
+                    "education",
+                    "africa"
+                ]
+            }
 
-        if "finance" in text:
-            return "Fintech"
+        if any(
+            word in text
+            for word in [
+                "health",
+                "medical",
+                "healthcare"
+            ]
+        ):
+            return {
+                "category": "Health",
+                "tags": [
+                    "health",
+                    "africa"
+                ]
+            }
 
-        if "community" in text:
-            return "Community"
+        if any(
+            word in text
+            for word in [
+                "community",
+                "nonprofit",
+                "organization"
+            ]
+        ):
+            return {
+                "category": "Community",
+                "tags": [
+                    "community",
+                    "africa"
+                ]
+            }
 
-        if "technology" in text:
-            return "Technology"
-
-        return "Other"
+        return {
+            "category": "Business",
+            "tags": [
+                "business",
+                "africa"
+            ]
+        }
