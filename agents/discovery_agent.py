@@ -3,36 +3,31 @@ import json
 
 class DiscoveryAgent:
 
-    def load_queries(self):
+    def discover(self):
 
         with open(
-            "data/discovery_queries.json",
+            "data/discovery_sources.json",
             "r",
             encoding="utf-8"
         ) as file:
 
-            return json.load(file)
+            sources = json.load(file)
 
-    def discover(self):
+        results = []
 
-        queries = self.load_queries()
-
-        discovered_urls = []
-
-        for query in queries:
+        for query, urls in sources.items():
 
             print(
                 f"Processing query: {query}"
             )
 
-            # Placeholder until we plug in
-            # a search provider
+            for url in urls:
 
-            discovered_urls.append(
-                {
-                    "query": query,
-                    "url": "https://african.business"
-                }
-            )
+                results.append(
+                    {
+                        "query": query,
+                        "url": url
+                    }
+                )
 
-        return discovered_urls
+        return results
