@@ -8,15 +8,45 @@ class FirebaseService:
 
     def __init__(self):
 
-        cred = credentials.Certificate(
-            "config/afro-discovery-system-firebase-adminsdk-fbsvc-e7f28e7a4c.json"
-        )
+        if not firebase_admin._apps:
 
-        firebase_admin.initialize_app(cred)
+            cred = credentials.Certificate(
+                "config/afro-discovery-system-firebase-adminsdk-fbsvc-e7f28e7a4c.json"
+            )
+
+            firebase_admin.initialize_app(
+                cred
+            )
 
         self.db = firestore.client()
 
+    def url_exists(self, url):
+
+        docs = (
+            self.db.collection(
+                "resources"
+            )
+            .where(
+                "url",
+                "==",
+                url
+            )
+            .stream()
+        )
+
+        return any(docs)
+
     def save_resource(self, data):
+
+        if self.url_exists(
+            data["url"]
+        ):
+
+            print(
+                f"Skipping duplicate: {data['url']}"
+            )
+
+            return
 
         self.db.collection(
             "resources"

@@ -9,8 +9,6 @@ class DatabaseAgent:
 
     def save(self, data):
 
-        self.firebase.save_resource(data)
-
-        print(
-            "Saved to Firebase."
+        self.firebase.save_resource(
+            data
         )
