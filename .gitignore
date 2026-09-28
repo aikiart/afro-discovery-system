@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+*.pyc
+config/*.json
+serviceAccount*.json
+node_modules
+dist/
+.next/
+json_files.txt
