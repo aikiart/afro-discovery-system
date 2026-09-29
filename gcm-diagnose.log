@@ -1,0 +1,198 @@
+﻿Diagnose log at 2026-09-20T00:57:54Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.9.0+194ba290ce533465310d50f811684ab180536ae7
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 19045)
+Reading environment variables... OK
+ Variables:
+SESSIONNAME=Console
+ProgramFiles(x86)=C:\Program Files (x86)
+MSYSTEM=MINGW64
+ProgramW6432=C:\Program Files
+ChocolateyInstall=C:\ProgramData\chocolatey
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+POWERSHELL_DISTRIBUTION_CHANNEL=MSI:Windows 10 Pro for Workstations
+TMP=C:\Users\artcu\AppData\Local\Temp
+PROCESSOR_ARCHITECTURE=AMD64
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\artcu\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass-main.js
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\artcu\bin;I:\afro-discovery-system\venv\Scripts;C:\Program Files\PowerShell\7;c:\Users\artcu\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\artcu\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Python311\Scripts\;C:\Python311\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\Calibre2\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\PowerShell\7\;C:\Users\artcu\AppData\Local\Microsoft\WindowsApps;C:\Users\artcu\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\artcu\AppData\Roaming\npm;C:\Program Files\nodejs;;C:\Users\artcu\AppData\Roaming\Programs\Zero Install;C:\Users\artcu\AppData\Local\Python\bin;c:\Users\artcu\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\scripts\noConfigScripts
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-68bcf53cec-sock
+PROCESSOR_REVISION=9e0a
+ChocolateyLastPathUpdate=133146763293761905
+USERPROFILE=C:\Users\artcu
+LOGONSERVER=\\DESKTOP-I74Q2Q2
+TEMP=C:\Users\artcu\AppData\Local\Temp
+PYDEVD_DISABLE_FILE_VALIDATION=1
+USERNAME=artcu
+SystemRoot=C:\WINDOWS
+VSCODE_DEBUGPY_ADAPTER_ENDPOINTS=c:\Users\artcu\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\.noConfigDebugAdapterEndpoints\endpoint-d5c13aa8352b3e4a.txt
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_27376_MLCDNPIYEVZUCVIF
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+PLINK_PROTOCOL=ssh
+_OLD_VIRTUAL_PATH=C:\Program Files\PowerShell\7;c:\Users\artcu\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\artcu\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Python311\Scripts\;C:\Python311\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\Calibre2\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\PowerShell\7\;C:\Users\artcu\AppData\Local\Microsoft\WindowsApps;C:\Users\artcu\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\artcu\AppData\Roaming\npm;C:\Program Files\nodejs;;C:\Users\artcu\AppData\Roaming\Programs\Zero Install;C:\Users\artcu\AppData\Local\Python\bin;c:\Users\artcu\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\scripts\noConfigScripts
+OneDrive=D:\Documents from C Drive\OneDrive
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-I74Q2Q2
+CommonProgramFiles=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+VSCODE_PYTHON_AUTOACTIVATE_GUARD=1
+PYTHON_BASIC_REPL=1
+ProgramData=C:\ProgramData
+LANG=en_US.UTF-8
+GIT_ASKPASS=c:\Users\artcu\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass.sh
+HOMEPATH=\Users\artcu
+OneDriveConsumer=D:\Documents from C Drive\OneDrive
+COMPUTERNAME=DESKTOP-I74Q2Q2
+PYTHONSTARTUP=c:\Users\artcu\AppData\Roaming\Code\User\workspaceStorage\bf621fa4ed668b1c9b634be52c8b3218\ms-python.python\pythonrc.py
+BUNDLED_DEBUGPY_PATH=c:\Users\artcu\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\libs\debugpy
+VSCODE_INJECTION=1
+ALLUSERSPROFILE=C:\ProgramData
+CommonProgramW6432=C:\Program Files\Common Files
+TERM=xterm-256color
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+windir=C:\WINDOWS
+GIT_TRACE2_PARENT_SID=71fae7da-58df-4f1c-9654-2de1bc8b9df2
+SystemDrive=C:
+NUMBER_OF_PROCESSORS=12
+OS=Windows_NT
+ProgramFiles=C:\Program Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL
+HOME=C:\Users\artcu
+PSModulePath=D:\Documents from C Drive\PowerShell\Modules;C:\Program Files\PowerShell\Modules;c:\program files\powershell\7\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\PowerShell\Modules\;C:\Program Files\SharePoint Online Management Shell\
+TMPDIR=C:\Users\artcu\AppData\Local\Temp
+VIRTUAL_ENV_PROMPT=venv
+APPDATA=C:\Users\artcu\AppData\Roaming
+USERDOMAIN=DESKTOP-I74Q2Q2
+PROCESSOR_LEVEL=6
+asl.log=Destination=file
+VIRTUAL_ENV=I:\afro-discovery-system\venv
+LOCALAPPDATA=C:\Users\artcu\AppData\Local
+VSCODE_GIT_ASKPASS_NODE=C:\Users\artcu\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PSExecutionPolicyPreference=RemoteSigned
+TERM_PROGRAM_VERSION=1.112.0
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+COLORTERM=truecolor
+PUBLIC=C:\Users\Public
+TERM_PROGRAM=vscode
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\artcu\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\artcu\AppData\Local\Temp\c81141218822a7bf6d927314'... OK
+Reading from temporary file 'C:\Users\artcu\AppData\Local\Temp\c81141218822a7bf6d927314'... OK
+Deleting temporary file 'C:\Users\artcu\AppData\Local\Temp\c81141218822a7bf6d927314'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\artcu
+UserDataDirectoryPath: C:\Users\artcu\.gcm
+GetCurrentDirectory(): I:\afro-discovery-system
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:52717/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.55.0.windows.4'
+Locating current repository...Git repository at 'I:/afro-discovery-system/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/artcu/.gitconfig	user.email=artjubilado@outlook.com
+file:C:/Users/artcu/.gitconfig	user.name=aikiart7
+file:C:/Users/artcu/.gitconfig	credential.helper=manager
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/aikiart/afro-discovery-system.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\artcu\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\artcu\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
