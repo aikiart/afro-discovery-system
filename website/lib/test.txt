@@ -1,0 +1,3 @@
+Firebase web app configured
+Project ID: afro-discovery-system
+`

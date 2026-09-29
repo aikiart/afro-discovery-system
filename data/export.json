@@ -1,883 +1,646 @@
 [
-    {
-        "tags": [],
-        "site_name": "Powering Financial Dreams In Emerging Markets | Moniepoint Inc",
-        "query": "African fintech companies",
-        "contact_email": "",
-        "social_links": [
-            "https://www.youtube.com/@Moniepointinc",
-            "https://instagram.com/moniepoint",
-            "https://www.linkedin.com/showcase/moniepoint-inc/",
-            "https://twitter.com/moniepoint"
-        ],
-        "phone": "",
-        "url": "https://moniepoint.com",
-        "description": "Moniepoint provides an all-in-one payments, banking and operations platform for businesses and their customers.",
-        "category": "Uncategorized",
-        "firebase_id": "0yPhmfmQBR02ehMD0Q9r"
-    },
-    {
-        "tags": [],
-        "site_name": "Just a moment...",
-        "query": "African fintech companies",
-        "contact_email": "",
-        "social_links": [],
-        "phone": "",
-        "url": "https://paystack.com",
-        "description": "",
-        "category": "Uncategorized",
-        "firebase_id": "16v3v9mXLsbu3lQzffzC"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African educational platforms",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag",
-            "https://www.instagram.com/africanbusiness/"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "19qBIzNtHdPL8fg6LueN"
-    },
-    {
-        "tags": [],
-        "site_name": "403 Forbidden",
-        "query": "Afrocentric community organizations",
-        "contact_email": "",
-        "social_links": [],
-        "phone": "",
-        "url": "https://www.100blackmen.org",
-        "description": "",
-        "category": "Uncategorized",
-        "firebase_id": "1YlEhAbhW7nLVRlg2dFi"
-    },
-    {
-        "tags": [],
-        "site_name": "Endless possibilities for every business - Flutterwave",
-        "query": "African fintech companies",
-        "contact_email": "serviceclient@flutterwavego.com",
-        "social_links": [
-            "https://twitter.com/theflutterwave",
-            "https://www.instagram.com/theflutterwave/",
-            "https://www.linkedin.com/company/flutterwave/",
-            "https://www.facebook.com/theFlutterwave/",
-            "https://twitter.com/flwsupport",
-            "https://www.youtube.com/channel/UCBIAbIysVyppFIiQP9CV-zQ"
-        ],
-        "phone": "",
-        "url": "https://flutterwave.com",
-        "description": "Unlocking boundless payment opportunities for enterprises, individuals, small businesses, emerging markets, and startups alike.",
-        "category": "Uncategorized",
-        "firebase_id": "7AVgtDYegGYovkla5Ioj"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African media companies",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.instagram.com/africanbusiness/",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "CAfhiXkjDVuVtv1Kr199"
-    },
-    {
-        "name": "Test Site",
-        "category": "Technology",
-        "url": "https://example.com",
-        "firebase_id": "CvbmKwABJobxkdf06Djm"
-    },
-    {
-        "tags": [],
-        "site_name": "AfroTech",
-        "query": "Black owned software companies",
-        "contact_email": "teejay.small@blavity.com",
-        "social_links": [
-            "https://www.instagram.com/afro.tech",
-            "https://www.facebook.com/BlavityAfrotech",
-            "https://twitter.com/afrotech"
-        ],
-        "phone": "",
-        "url": "https://afrotech.com",
-        "description": "AfroTech - The leading platform for Black professionals in tech",
-        "category": "Uncategorized",
-        "firebase_id": "GB5A06BnEpSVubLBS0nM"
-    },
-    {
-        "tags": [],
-        "site_name": "",
-        "query": "African health technology startups",
-        "contact_email": "",
-        "social_links": [],
-        "phone": "",
-        "url": "https://54gene.com",
-        "description": "",
-        "category": "Uncategorized",
-        "firebase_id": "JnGw5TGWDycePuCboApw"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "Afrocentric community organizations",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.instagram.com/africanbusiness/",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "KQg0evZNnZZJAM6bW7yZ"
-    },
-    {
-        "tags": [
-            "test"
-        ],
-        "site_name": "SCHEMA TEST",
-        "social_links": [
-            "https://www.facebook.com/theFlutterwave/",
-            "https://twitter.com/theflutterwave",
-            "https://www.youtube.com/channel/UCBIAbIysVyppFIiQP9CV-zQ",
-            "https://www.linkedin.com/company/flutterwave/",
-            "https://www.instagram.com/theflutterwave/",
-            "https://twitter.com/flwsupport"
-        ],
-        "emails": [
-            "kelechi@flutterwavego.com",
-            "integration_support_intercom@flutterwavego.com",
-            "oladipo@flutterwavego.com",
-            "onboarding@flutterwavego.com",
-            "serviceclient@flutterwavego.com",
-            "hi@flutterwavego.com"
-        ],
-        "url": "https://schema-test-001.com",
-        "description": "Unlocking boundless payment opportunities for enterprises, individuals, small businesses, emerging markets, and startups alike.",
-        "category": "Test",
-        "phones": [],
-        "contact_pages": [
-            "https://flutterwave.com/us/contact-sales"
-        ],
-        "firebase_id": "LD8AV0r36JsnCw4RPYex"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "Black owned mobile apps",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag",
-            "https://www.instagram.com/africanbusiness/"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "NfUbfm6l8jhcpSzayfVE"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "Black owned software companies",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag",
-            "https://www.instagram.com/africanbusiness/"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "OTJ8YfhoaXK5JR9azN0R"
-    },
-    {
-        "tags": [
-            "africa",
-            "fintech"
-        ],
-        "date_discovered": "2026-09-19",
-        "site_name": "African Fintech Example",
-        "contact_email": "",
-        "social_links": [],
-        "phone": "",
-        "url": "https://example.com",
-        "description": "Example African fintech company",
-        "category": "Fintech",
-        "firebase_id": "OZ92ChVbTFp8q6cwvi6d"
-    },
-    {
-        "tags": [],
-        "site_name": "mPharma",
-        "query": "African health technology startups",
-        "contact_email": "",
-        "social_links": [],
-        "phone": "",
-        "url": "https://mpharma.com",
-        "description": "",
-        "category": "Uncategorized",
-        "firebase_id": "OtXDwmoGsDsGw2y8hCBK"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African nonprofit organizations",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.instagram.com/africanbusiness/",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "PMvQIJbUtgUNI9tKQwer"
-    },
-    {
-        "tags": [],
-        "site_name": "Ashoka: Everyone a Changemaker",
-        "query": "African nonprofit organizations",
-        "contact_email": "",
-        "social_links": [
-            "https://www.youtube.com/watch?v=SdZCcYXsUog",
-            "https://www.youtube.com/watch?v=nB2C6iD7Mi4",
-            "https://www.youtube.com/watch?v=zTCOoQ_igSM",
-            "https://www.youtube.com/watch?v=xaWjyO72V9g",
-            "https://www.youtube.com/watch?v=zRYJOk28OrI",
-            "https://www.youtube.com/watch?v=h3HUJ74Exfs",
-            "https://www.youtube.com/watch?v=Boh9zKQl5oc",
-            "https://www.youtube.com/watch?v=RfiY9rRsWqE",
-            "https://www.youtube.com/watch?v=fj1-t3daECw",
-            "https://www.youtube.com/watch?v=Eqm9TbAglN4",
-            "https://www.youtube.com/watch?v=mKsuGD5s-no",
-            "https://www.youtube.com/watch?v=F9nMEQIpuZc",
-            "https://www.youtube.com/watch?v=s8Gq0clBr9k",
-            "https://www.youtube.com/watch?v=hxWrw15OTu8",
-            "https://www.youtube.com/watch?v=X1y4sAAN5aU",
-            "https://www.youtube.com/watch?v=V0w_o5PAzPQ",
-            "https://www.instagram.com/ashokaglobal/?hl=en",
-            "https://www.youtube.com/ashoka",
-            "https://www.youtube.com/watch?v=ycslk2K6S-8",
-            "https://www.linkedin.com/company/ashoka",
-            "https://www.youtube.com/watch?v=OQ2c8QBYvXE"
-        ],
-        "phone": "",
-        "url": "https://www.ashoka.org",
-        "description": "Ashoka envisions a world in which Everyone is a Changemaker: a world where all citizens are powerful and contribute to change in positive ways.",
-        "category": "Uncategorized",
-        "firebase_id": "SyNyrABqRdB2vuve9P9c"
-    },
-    {
-        "tags": [],
-        "site_name": "Homepage - African Leadership Academy",
-        "query": "African educational platforms",
-        "contact_email": "elements@2x.png",
-        "social_links": [
-            "https://www.facebook.com/africanleadershipacademy/",
-            "https://www.youtube.com/ALAvideochannel",
-            "https://www.linkedin.com/school/african-leadership-academy/mycompany/?viewAsMember=true",
-            "https://about.netflix.com/en/news/winners-of-the-african-folktales-reimagined-short-film-competition",
-            "https://www.instagram.com/alacademy/"
-        ],
-        "phone": "",
-        "url": "https://www.africanleadershipacademy.org",
-        "description": "African Leadership Academy seeks to transform Africa by developing a powerful network of young leaders who are ready to accelerate the continent’s growth.",
-        "category": "Uncategorized",
-        "firebase_id": "VwrsYfVKCjXuzbCSVWIw"
-    },
-    {
-        "tags": [
-            "test"
-        ],
-        "site_name": "SCHEMA TEST",
-        "social_links": [
-            "https://www.linkedin.com/company/flutterwave/",
-            "https://www.youtube.com/channel/UCBIAbIysVyppFIiQP9CV-zQ",
-            "https://twitter.com/flwsupport",
-            "https://www.instagram.com/theflutterwave/",
-            "https://www.facebook.com/theFlutterwave/",
-            "https://twitter.com/theflutterwave"
-        ],
-        "emails": [
-            "oladipo@flutterwavego.com",
-            "hi@flutterwavego.com",
-            "kelechi@flutterwavego.com",
-            "serviceclient@flutterwavego.com",
-            "onboarding@flutterwavego.com",
-            "integration_support_intercom@flutterwavego.com"
-        ],
-        "url": "https://schema-test-001.com",
-        "description": "Unlocking boundless payment opportunities for enterprises, individuals, small businesses, emerging markets, and startups alike.",
-        "category": "Test",
-        "phones": [],
-        "contact_pages": [
-            "https://flutterwave.com/us/contact-sales"
-        ],
-        "firebase_id": "W7XKeAMAxZfE5RYDHl1G"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "Black owned mobile apps",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.instagram.com/africanbusiness/",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "X0jHjYgfVEc93CJqtLBR"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African fintech companies",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.instagram.com/africanbusiness/",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "XO5TY4y5k6EABDajs4nb"
-    },
-    {
-        "tags": [
-            "africa",
-            "business"
-        ],
-        "date_discovered": "2026-09-19",
-        "site_name": "African Business",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://x.com/AfricanBizMag",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.instagram.com/africanbusiness/",
-            "https://www.facebook.com/AfricanBusinessMagazine/"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Business",
-        "firebase_id": "YOFcIs1PhdixNfWZqsLS"
-    },
-    {
-        "tags": [],
-        "site_name": "Just a moment...",
-        "query": "African ecommerce platforms",
-        "contact_email": "",
-        "social_links": [],
-        "phone": "",
-        "url": "https://www.jumia.com",
-        "description": "",
-        "category": "Uncategorized",
-        "firebase_id": "ZC1ozFQ6OLorFtBxXJu9"
-    },
-    {
-        "tags": [],
-        "site_name": "",
-        "query": "African ecommerce platforms",
-        "contact_email": "",
-        "social_links": [],
-        "phone": "",
-        "url": "https://www.kilimall.com",
-        "description": "",
-        "category": "Uncategorized",
-        "firebase_id": "aQKJB6vEGpZu3xbgXUOC"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African ecommerce platforms",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag",
-            "https://www.instagram.com/africanbusiness/"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "aqx85Bu8pmO6rbQCpJNI"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African health technology startups",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.instagram.com/africanbusiness/",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "cC0eCTSHZYV7seLsvOIi"
-    },
-    {
-        "tags": [],
-        "site_name": "Africanews | Latest breaking news, daily news and African news from Africa",
-        "query": "African cultural organizations",
-        "contact_email": "",
-        "social_links": [
-            "https://www.instagram.com/africanews.en",
-            "https://www.youtube.com/c/africanews",
-            "https://twitter.com/africanews",
-            "https://www.facebook.com/africanews.channel/",
-            "https://www.linkedin.com/company/africanews?trk=biz-companies-cym",
-            "https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA",
-            "https://www.facebook.com/Africanews-1004882306242283/"
-        ],
-        "phone": "",
-        "url": "https://www.africanews.com",
-        "description": "Find out all about latest breaking news, daily news and hot news in Africa. African politics, African business, African sports, health and technology on, also available on VOD africanews.com",
-        "category": "Uncategorized",
-        "firebase_id": "dDnTfBaS2sKggS0TXRvg"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African nonprofit organizations",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag",
-            "https://www.instagram.com/africanbusiness/"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "fn0EtEbYKVMsZvw338hn"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African media companies",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag",
-            "https://www.instagram.com/africanbusiness/"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "gpDEw2faeTC3U04Xnxyq"
-    },
-    {
-        "tags": [],
-        "site_name": "403 Forbidden",
-        "query": "African nonprofit organizations",
-        "contact_email": "",
-        "social_links": [],
-        "phone": "",
-        "url": "https://www.acumen.org",
-        "description": "",
-        "category": "Uncategorized",
-        "firebase_id": "h3UJK204dchZaGy4xRYX"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "Black owned software companies",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.instagram.com/africanbusiness/",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "jR0RzW1bim110DD1NKIk"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African educational platforms",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.instagram.com/africanbusiness/",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "jvvxfnsySB7aDRKSpUFI"
-    },
-    {
-        "tags": [],
-        "site_name": "Home - Moringa School",
-        "query": "African educational platforms",
-        "contact_email": "admissions@moringaschool.com",
-        "social_links": [
-            "https://www.youtube.com/MoringaSchoolVideos/videos",
-            "https://www.linkedin.com/company/moringa-school",
-            "https://www.facebook.com/moringaschool/",
-            "https://twitter.com/moringaschool",
-            "https://www.youtube.com/watch?v=evaYvM_BtQI",
-            "https://www.youtube.com/watch?v=itGRuLsH0HY"
-        ],
-        "phone": "",
-        "url": "https://moringaschool.com",
-        "description": "",
-        "category": "Uncategorized",
-        "firebase_id": "l6uWXonHMEoFyUFbIpey"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African cultural organizations",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.instagram.com/africanbusiness/",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "lFHZZioc4EqlflBKmXe8"
-    },
-    {
-        "tags": [],
-        "site_name": "The Community for Black Creativity and News - Blavity News",
-        "query": "Black owned mobile apps",
-        "contact_email": "google-preferred-source-badge-light@2x.png",
-        "social_links": [
-            "https://www.linkedin.com/company/blavityinc",
-            "https://www.facebook.com/Blavity",
-            "https://www.youtube.com/playlist?list=PLDFJMIUoQclf9CRBR3ObdGGIP01lDglx8",
-            "https://twitter.com/blavity",
-            "https://www.instagram.com/blavity"
-        ],
-        "phone": "",
-        "url": "https://blavity.com",
-        "description": "Blavity is a tech company for forward thinking Black millennials pushing the boundaries of culture and the status quo.",
-        "category": "Uncategorized",
-        "firebase_id": "lYZC1IHOJhL5G30eeVFl"
-    },
-    {
-        "tags": [],
-        "site_name": "africa.com — Africa's News & Information Platform",
-        "query": "African cultural organizations",
-        "contact_email": "",
-        "social_links": [
-            "https://www.linkedin.com/company/africa-com-llc",
-            "https://twitter.com/Africa_com",
-            "https://www.facebook.com/Africacom",
-            "https://www.youtube.com/@africadotcomofficial"
-        ],
-        "phone": "",
-        "url": "https://africa.com",
-        "description": "News, business intelligence, culture, and in-depth coverage from all 54 African nations. Your trusted source for African affairs since 2010.",
-        "category": "Uncategorized",
-        "firebase_id": "mFCgDjOWEgkNGZbehqvW"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "Afrocentric community organizations",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag",
-            "https://www.instagram.com/africanbusiness/"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "mU98cVwzXhbhhSEB7rkK"
-    },
-    {
-        "tags": [],
-        "site_name": "403 Forbidden",
-        "query": "African educational platforms",
-        "contact_email": "",
-        "social_links": [],
-        "phone": "",
-        "url": "https://www.alxafrica.com",
-        "description": "",
-        "category": "Uncategorized",
-        "firebase_id": "nNHsn6m3At6nM99G4Yv9"
-    },
-    {
-        "tags": [],
-        "site_name": "Homepage | TechCabal",
-        "query": "African media companies",
-        "contact_email": "tc2-envelope@2x.png",
-        "social_links": [
-            "https://www.linkedin.com/company/techcabal/",
-            "https://web.facebook.com/TechCabal/?_rdc=1&_rdr#",
-            "https://x.com/TechCabal",
-            "https://www.instagram.com/techcabal/",
-            "https://www.youtube.com/user/TechCabal"
-        ],
-        "phone": "",
-        "url": "https://techcabal.com",
-        "description": "",
-        "category": "Uncategorized",
-        "firebase_id": "oR9cYIlcsyzM6fUxskRS"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African fintech companies",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag",
-            "https://www.instagram.com/africanbusiness/"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "oUGgGzOOFGjMnlynPKIG"
-    },
-    {
-        "tags": [],
-        "site_name": "The Premier Resource for Black Entrepreneurs and Career, Tech, and Money Content for Black People - Black Enterprise",
-        "query": "Black owned software companies",
-        "contact_email": "",
-        "social_links": [
-            "https://www.instagram.com/blackenterprise",
-            "https://www.youtube.com/user/BEMultiMedia",
-            "https://www.facebook.com/blackenterprise",
-            "https://www.linkedin.com/company/black-enterprise",
-            "https://www.twitter.com/blackenterprise"
-        ],
-        "phone": "",
-        "url": "https://blackenterprise.com",
-        "description": "BLACK ENTERPRISE is the premier resource for black entrepreneurs, black-owned businesses, and career, tech, and money content for black people.",
-        "category": "Uncategorized",
-        "firebase_id": "pm0vlKOCU2RnNl0czG3E"
-    },
-    {
-        "tags": [],
-        "site_name": "Move Your Money Freely",
-        "query": "African fintech companies",
-        "contact_email": "",
-        "social_links": [
-            "https://www.linkedin.com/company/chippercash",
-            "https://twitter.com/chippercashapp",
-            "https://www.instagram.com/chippercashapp",
-            "https://www.youtube.com/channel/UCV8JsFe389TSrTuuXMZS6Ww",
-            "https://www.facebook.com/Chippercashapp/"
-        ],
-        "phone": "",
-        "url": "https://chippercash.com",
-        "description": "Join over 5 million people securely sending and receiving money with Chipper Cash. Great app to send and receive money across a number of countries, highly recommended as a money transfer alternative.",
-        "category": "Uncategorized",
-        "firebase_id": "rDWGhEcs64zuKcXDwJID"
-    },
-    {
-        "tags": [],
-        "site_name": "venturesafrica.com | 526: Invalid SSL certificate",
-        "query": "African media companies",
-        "contact_email": "",
-        "social_links": [],
-        "phone": "",
-        "url": "https://venturesafrica.com",
-        "description": "",
-        "category": "Uncategorized",
-        "firebase_id": "si6DEqmG8ifoVWjs9oUd"
-    },
-    {
-        "tags": [
-            "africa",
-            "fintech"
-        ],
-        "site_name": "Endless possibilities for every business - Flutterwave",
-        "social_links": [
-            "https://www.instagram.com/theflutterwave/",
-            "https://www.linkedin.com/company/flutterwave/",
-            "https://www.youtube.com/channel/UCBIAbIysVyppFIiQP9CV-zQ",
-            "https://www.facebook.com/theFlutterwave/",
-            "https://twitter.com/theflutterwave",
-            "https://twitter.com/flwsupport"
-        ],
-        "emails": [
-            "integration_support_intercom@flutterwavego.com",
-            "serviceclient@flutterwavego.com",
-            "hi@flutterwavego.com",
-            "kelechi@flutterwavego.com",
-            "oladipo@flutterwavego.com",
-            "onboarding@flutterwavego.com"
-        ],
-        "url": "https://flutterwave.com?test=v2",
-        "description": "Unlocking boundless payment opportunities for enterprises, individuals, small businesses, emerging markets, and startups alike.",
-        "category": "Fintech",
-        "phones": [],
-        "contact_pages": [
-            "https://flutterwave.com/us/contact-sales"
-        ],
-        "firebase_id": "vokgoK1WrMqrhpSs6ooa"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African cultural organizations",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag",
-            "https://www.instagram.com/africanbusiness/"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "wDgFJQcxTgfAEovgGXoI"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African ecommerce platforms",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.instagram.com/africanbusiness/",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "wrDK6WuNkTMgIRmHflEd"
-    },
-    {
-        "tags": [],
-        "site_name": "African Business",
-        "query": "African health technology startups",
-        "contact_email": "info@african.business",
-        "social_links": [
-            "https://www.linkedin.com/company/african-business-magazine/",
-            "https://www.youtube.com/channel/UCeeD5x2U2lpNDdDz8vpsNOA/featured",
-            "https://www.facebook.com/AfricanBusinessMagazine/",
-            "https://x.com/AfricanBizMag",
-            "https://www.instagram.com/africanbusiness/"
-        ],
-        "phone": "",
-        "url": "https://african.business",
-        "description": "African Business Magazine is the leading publication for news and in-depth reports on business matters across the continent.",
-        "category": "Uncategorized",
-        "firebase_id": "x1DFkqbrRfGByNaKCxEa"
-    },
-    {
-        "tags": [
-            "africa",
-            "fintech"
-        ],
-        "site_name": "Endless possibilities for every business - Flutterwave",
-        "social_links": [
-            "https://www.facebook.com/theFlutterwave/",
-            "https://twitter.com/flwsupport",
-            "https://twitter.com/theflutterwave",
-            "https://www.linkedin.com/company/flutterwave/",
-            "https://www.instagram.com/theflutterwave/",
-            "https://www.youtube.com/channel/UCBIAbIysVyppFIiQP9CV-zQ"
-        ],
-        "emails": [
-            "serviceclient@flutterwavego.com",
-            "kelechi@flutterwavego.com",
-            "integration_support_intercom@flutterwavego.com",
-            "oladipo@flutterwavego.com",
-            "hi@flutterwavego.com",
-            "onboarding@flutterwavego.com"
-        ],
-        "url": "https://flutterwave.com/schema-test",
-        "description": "Unlocking boundless payment opportunities for enterprises, individuals, small businesses, emerging markets, and startups alike.",
-        "category": "Fintech",
-        "phones": [],
-        "contact_pages": [
-            "https://flutterwave.com/us/contact-sales"
-        ],
-        "firebase_id": "xdWcJ4PnfbEOzttMjcnL"
-    },
-    {
-        "tags": [],
-        "site_name": "NAACP | Leading the Fight to End Racial Inequality",
-        "query": "Afrocentric community organizations",
-        "contact_email": "info@naacpnet.org",
-        "social_links": [
-            "https://x.com/NAACP",
-            "https://www.facebook.com/naacp",
-            "https://www.youtube.com/user/naacpvideos/videos",
-            "https://www.instagram.com/naacp"
-        ],
-        "phone": "",
-        "url": "https://naacp.org",
-        "description": "NAACP builds Black political power to end structural racism. Let's put end to race-based discrimination together: become a member, advocate, or donate today.",
-        "category": "Uncategorized",
-        "firebase_id": "ycIoYY82A0DMjBybxpR3"
-    }
+  {
+    "title": "Mukoko — Your Twin. Your sovereignty. Your honey.",
+    "url": "https://www.mukoko.com/",
+    "description": "Africa's privacy-first social super-app. Seventeen mini-apps, four substrate components, one identity, one Digital Twin that lives in your sovereign pod. Built by Nyuchi Africa, governed by the Bundu Foundation.",
+    "published_date": null,
+    "highlights": [
+      "Mukoko is Shona for beehive. Seventeen mini-apps and four substrate components, all powered by your Digital Twin — an AI that lives in your sovereign Web3 pod, that we cannot read, that we cannot sell.\n...\nMukoko is not \"Africa's WeChat.\" It is built on a different model entirely — privacy as architecture, not as a setting; ownership as cryptography, not as a checkbox; community as the operating system.\n...\n- ### Local-first. Mobile-first. Open source. Open data.\n\nThe four pillars. Built on technology that cannot be taken away — SQLite (public domain), ScyllaDB (AGPL), CouchDB (Apache).\n...\nEach mini-app is a fully navigable, standalone experience — and each one operates in three modes simultaneously: Musha (home, what you experience), Basa (work, what other apps consume), Nhaka (heritage, what flows into the open commons).\n...\nThe platform anchor. All direct and group messaging — and every cross-app notification (BushTrade bookings, Nhimbe reminders, Wallet requests, Shamwari AI responses) arrives here.\n...\nPersonalised content feed (v1) and agentic home dashboard (v2 via Mukoko Home). The first surface most users see when they open Mukoko.\n...\nAfrican journalism, news, and stock signals. Standalone platform with its own backend and database project.\n...\nShort-form video. The creator economy layer of the platform — creators own their content and revenue split is enforced by smart contract, not policy.\n...\nAfrican long-form storytelling and publishing. Authors keep 80%+; co-authors split revenue automatically through smart contracts.\n...\nInterest groups, fan communities, professional networks. The persistent social fabric.\n...\nEvents and gatherings. Where the digital platform produces physical community — festivals, meetups, ceremonies. Nhimbe is the Shona word for a community work gathering.\n...\nAfrica's marketplace. Rentals primary, sales expanding. Standalone platform with its own backend. Delivery fulfilment powered by Nyuchi Logistics.\n...\nMXT, mobile money (EcoCash, MTN MoMo, Airtel Money), bank transfers, crypto, card. First-class economic layer for the 60% who are unbanked. Powered by Nyuchi Pay.\n...\nEmployment discovery — formal, informal, and gig economy. Professional matching and credential verification via Mukoko ID.\n...\nAfrica's geographic knowledge graph. The most-referenced schema on the platform — formal and informal business verification across 54 countries, 50+ cities seeded.\n...\nPublic transport routing (Harare Metro open-source backbone), vehicle booking, and delivery tracking. Consumer surface for Nyuchi Logistics.\n...\nAfrican language learning. Shona and Ndebele primary. English, French, Portuguese, and travel phrase courses. Standalone platform with its own backend.\n...\nHyperlocal forecasts, severe weather alerts, and farming intelligence. Community weather observations flow through the open data pipeline.\n...\nHealth information, telemedicine booking, medication reminders. Sensitive health records stored in the sovereign Digital Twin pod, not in platform databases. Consumer surface for Nyuchi Medical.\n...\nCalendar, tasks, bookings, and notes consolidated. Every time-committed activity across the platform writes here automatically — Nhimbe RSVPs, BushTrade bookings, Campfire meetings.\n...\nOne login, one Digital Twin, one reputation across all 17 mini-apps and every Nyuchi enterprise product. Five verification tiers — unverified, community, OTP, government, licensed.\n...\nYour sovereign AI. Three concentric intelligence layers: personal (your pod data, encrypted and sovereign), community (anonymised platform data), and platform (base Mukoko knowledge). The conversational interface is Shamwari — friend in Shona. Lives in your Web3 pod on the Nyuchi Honeycomb network. Cryptographically bound to your MIT soulbound token.\n...\nThe ambient agentic surface the Twin expresses itself through — phone, desk monitor, kitchen display, lounge TV. Pulse v2 toggle. Connects Mukoko to external services via MCP (Model Context Protocol). The orchestration centre of your digital life.\n...\nTwo-token economic protocol. MIT (Identity) is soulbound, non-transferable, anchored to your date of birth, with three temporal pools (Year 60% / Month 30% / Day 10%). MXT (Exchange) is transferable, elastic, deployed on Polygon — initial supply 3 billion, baseline 10,000 MXT per new verified user, annual ceiling 15%, burn rate 30% of platform fees.\n...\nThe community conscience. Contribution scoring, badges, missions, leaderboards, governance. The Ubuntu Multiplier amplifies governance voice for committed community members. The ethical fabric running across everything."
+    ],
+    "emails": [
+      "support@mukoko.com",
+      "you@example.com"
+    ],
+    "social_links": [],
+    "contact_pages": [
+      "/about"
+    ],
+    "search_query": "Afro-centric tech platforms and applications",
+    "categorized": false
+  },
+  {
+    "title": "BantuX — The African super-browser",
+    "url": "https://www.bantux.app/",
+    "description": "Browse, connect, trade, and build — one AI-native app for the whole African internet. Powered by Nuru AI, settled in Karat Dollar, secured by CrowdSecure.",
+    "published_date": null,
+    "highlights": [
+      "BantuX — The African super-browser\n...\n# The whole African internet, in one browser.\n\nBrowse, connect, trade, and build — one AI-native app for the whole African internet. Powered by Nuru AI, settled in Karat Dollar, secured by CrowdSecure.\n...\n▶ BantuStream African music & video\n\n🚀 StartPad Register a business in 54 states\n\n🛒 Soko Marketplace for the continent\n\n◉ TerraMaps Maps that actually know Africa\n\n💼 Kazi Jobs that match what you want\n...\nNuru doesn't just answer — it acts. Ask it to compare suppliers, book a flight, or summarise your inbox, and it plans, calls tools in parallel, and executes. One assistant across every part of your day, fluent in 12 African languages.\n...\nMoney that moves\n...\nSend value across borders in under a second with KIPS settlement — 0.4% flat, gold-denominated, no banking detour. Pay a friend in a chat, settle an invoice, or get paid as a creator, all inside BantuX.\n...\nA decentralised African identity on Celo. Sign in once with a passkey — no passwords, no surveillance. Your data stays in African data centres, and you decide who sees what.\n\n## Everything you open ten apps for, in one.\n\nAI search across the African web\n\nEncrypted chat + payments\n...\nBantuStream\n\nAfrican music & video\n\nRegister a business in 54 states\n\nMarketplace for the continent\n...\nMaps that actually know Africa\n\n## Karibu. Make BantuX your browser.\n\nFree, forever. Your inbox, your money, your network, your AI — on every device."
+    ],
+    "emails": [
+      "you@email.com"
+    ],
+    "social_links": [],
+    "contact_pages": [
+      "/about",
+      "/about#kavod"
+    ],
+    "search_query": "Afro-centric tech platforms and applications",
+    "categorized": false
+  },
+  {
+    "title": "Uhuru — Africa's AI. Built for You. Free to Start.",
+    "url": "https://uhuruai.co/",
+    "description": "We put the tools of intelligence in every hand, so progress becomes inevitable. Join Uhuru on web or WhatsApp and start today.",
+    "published_date": null,
+    "highlights": [
+      "No tab-hopping across seven apps. Uhuru brings the work into one place — and one bill.\n...\nSpecialised intelligence for the work that matters. Uhuru's specialised models go deeper into the domains where context, structure, risk, and judgment matter.\n...\nGeneric AI gives broad answers. Uhuru's specialised models are built around the real workflows, documents, risks, and decisions inside each field.\n\nFrom health communication to legal drafting, personalised education, biodiversity, genomics, and scientific research, Uhuru brings domain-focused intelligence into one connected AI platform.\n...\nThe first AI built to reach every African — not only the ones with the latest phone and the fastest data.\n...\nFour ways in. One Uhuru.Web, WhatsApp, SMS and Voice — all routed to the same intelligence.\n...\n{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"SoftwareApplication\",\n      \"name\": \"Uhuru AI\",\n      \"alternateName\": \"Uhuru\",\n      \"description\": \"Africa's sovereign AI platform — AI chat, healthcare AI, document creation, image generation, and cloud storage. Built in Botswana by OrionX.\",\n      \"url\": \"https://uhuruai.co\",\n      \"applicationCategory\": \"BusinessApplication\",\n      \"applicationSubCategory\": \"Artificial Intelligence\",\n      \"operatingSystem\": \"Web, iOS, Android\",\n      \"offers\": {\n        \"@type\": \"Offer\",\n        \"price\": \"0\",\n        \"priceCurrency\": \"USD\",\n        \"availability\": \"https://schema.org/InStock\"\n      },\n      \"aggregateRating\": {\n        \"@type\": \"AggregateRating\",\n        \"ratingValue\": \"4.8\",\n        \"ratingCount\": \"150\",\n        \"bestRating\": \"5\"\n      },\n      \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"OrionX\",\n        \"url\": \"https://uhuruai.co\"\n      },\n      \"featureList\": \"AI Chat, Healthcare AI, Document Creation, Image Generation, Cloud Storage, Spreadsheets, AI Agents, Code Editor, WhatsApp Integration\",\n      \"screenshot\": \"https://uhuruai.co/og-image.png\",\n      \"keywords\": \"Uhuru AI, sovereign AI, sovereign AI Africa, AI in Africa, AI for African startups, AI made in Africa, AI Botswana, OrionX, African AI platform, healthcare AI Africa\"\n    }\n...\n{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"FAQPage\",\n      \"mainEntity\": [\n        {\n          \"@type\": \"Question\",\n          \"name\": \"What is Uhuru AI?\",\n          \"acceptedAnswer\": {\n            \"@type\": \"Answer\",\n            \"text\": \"Uhuru AI is Africa's sovereign AI platform, built in Botswana by OrionX. It includes AI chat, healthcare AI, document creation, image generation, and cloud storage — accessible on web, mobile, and WhatsApp.\"\n          }\n        },\n        {\n          \"@type\": \"Question\",\n          \"name\": \"Where is Uhuru AI built?\",\n          \"acceptedAnswer\": {\n            \"@type\": \"Answer\",\n            \"text\": \"Uhuru AI is built by OrionX, headquartered in Gaborone, Botswana. It is owned and operated by Africans, for Africa, with infrastructure on the continent.\"\n          }\n        },\n        {\n          \"@type\": \"Question\",\n          \"name\": \"What does sovereign AI mean?\",\n          \"acceptedAnswer\": {\n            \"@type\": \"Answer\",\n            \"text\": \"Sovereign AI means an AI platform that is owned by, hosted in, and accountable to its home region. Uhuru AI keeps African data on the African continent, is built by an African company, and answers to African users — not foreign cloud providers or governments.\"\n          }\n        },\n        {\n          \"@type\": \"Question\",\n          \"name\": \"Is Uhuru AI free to use?\",\n          \"acceptedAnswer\": {\n            \"@type\": \"Answer\",\n            \"text\": \"Yes. Uhuru AI has a free tier with no credit card required. Paid plans (Essential, Pro, Teams, Plus) unlock more usage, premium models, and advanced features. Pricing is available in USD, BWP, and ZAR.\"\n          }\n        },\n...\n{\n          \"@type\": \"Question\",\n          \"name\": \"Can I use Uhuru AI on WhatsApp?\",\n          \"acceptedAnswer\": {\n            \"@type\": \"Answer\",\n            \"text\": \"Yes. Uhuru AI is available on web, iOS, Android, and WhatsApp — designed to work on the phone in your pocket without needing a separate app download.\"\n          }\n        },\n        {\n          \"@type\": \"Question\",\n          \"name\": \"How is Uhuru AI different from ChatGPT, Claude, or Gemini?\",\n          \"acceptedAnswer\": {\n            \"@type\": \"Answer\",\n            \"text\": \"Uhuru AI is built for the operational reality of African users. It is sovereign (African-owned, hosted in Africa), priced in local currencies, available on WhatsApp, and includes products African businesses actually need — healthcare AI, document creation, image generation, and storage — in one platform.\"\n          }\n        },\n        {\n          \"@type\": \"Question\",\n          \"name\": \"What products are part of Uhuru AI?\",\n          \"acceptedAnswer\": {\n            \"@type\": \"Answer\",\n            \"text\": \"Uhuru AI includes Uhuru Chat (conversational AI), Uhuru Health (healthcare companion), Uhuru Diagnose (guided home health exam), Uhuru Images (AI image generation), U Docs (document creation), U Code (AI code editor), U Storage (cloud storage), and Uhuru Cloud (storage and docs hub).\"\n          }\n        },\n        {\n          \"@type\": \"Question\",\n          \"name\": \"Is my data safe with Uhuru AI?\",\n          \"acceptedAnswer\": {\n            \"@type\": \"Answer\",\n            \"text\": \"Yes. Uhuru AI keeps African user data on the African continent by default, supports local data residency for compliance with national regulations, and never sells user data to third parties. Built for sovereignty, not surveillance.\"\n          }\n        }\n      ]\n    }\n{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Service\",\n      \"serviceType\": \"Sovereign AI Platform\",\n      \"provider\": {\n        \"@type\": \"Organization\",\n        \"name\": \"OrionX\",\n        \"url\": \"https://uhuruai.co\"\n      },\n      \"areaServed\": {\n        \"@type\": \"Continent\",\n        \"name\": \"Africa\"\n      },\n      \"hasOfferCatalog\": {\n        \"@type\": \"OfferCatalog\",\n        \"name\": \"Uhuru AI Products\",\n        \"itemListElement\": [\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Uhuru Chat\",\n              \"description\": \"Conversational AI assistant available on web and WhatsApp\",\n              \"url\": \"https://uhuruai.co/chat\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Uhuru Health\",\n              \"description\": \"AI healthcare companion and telehealth for Africa\",\n              \"url\": \"https://uhuruai.co/uhuru-health\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Uhuru Diagnose\",\n              \"description\": \"Guided home health exam powered by AI\",\n              \"url\": \"https://uhuruai.co/uhuru-diagnose\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Uhuru Images\",\n              \"description\": \"AI image generation for African creators and businesses\",\n              \"url\": \"https://uhuruai.co/uhuru-images\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Uhuru Cloud\",\n              \"description\": \"Cloud storage and document hub for users\",\n              \"url\": \"https://uhuruai.co/uhuru-cloud\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Uhuru AI Models\",\n              \"description\": \"Africa's sovereign AI model family — U3.5, U3.0, U4.0, Polymath\",\n              \"url\": \"https://uhuruai.co/models\"\n            }\n          }\n        ]\n      }\n    }"
+    ],
+    "emails": [
+      "hello@orionx.xyz"
+    ],
+    "social_links": [],
+    "contact_pages": [
+      "/about-orionx"
+    ],
+    "search_query": "Afro-centric tech platforms and applications",
+    "categorized": false
+  },
+  {
+    "title": "Afro AI — Build Websites & Apps with AI | No Coding Needed",
+    "url": "https://afroaigroup.com/",
+    "description": "Turn your idea into a real website, mobile app or online business in minutes using AI. No coding or technical skills needed. Made in Africa, built for everyone. Free to start.",
+    "published_date": null,
+    "highlights": [
+      "Afro AI — Build Websites & Apps with AI | No Coding Needed\n...\nCreate websites, mobile apps, and digital products in minutes. Just describe what you want. No coding, no designers, no technical skills needed. Made in Africa, built for everyone.\n...\nFrom idea to App Store. Design, build, and deploy professional websites and mobile apps with the power of AI.\n\n### Website Builder\n\nCreate beautiful, responsive websites with our drag-and-drop builder. No coding experience required.\n...\n### App Designer\n\nDesign mobile apps for iOS and Android. Preview in real-time and publish directly to app stores.\n...\n### AI Chat Assistant\n\nGet instant help from our AI assistant. Ask questions, get code suggestions, and solve problems in real-time.\n...\n### App Store Launch\n\nPublish to Apple App Store and Google Play Store with one click. We handle all the complexity.\n...\n### Code Generation\n\nAI generates clean, production-ready code. Export your project or let us host it for you.\n...\nEnterprise-grade security and 99.9% uptime. Your apps are safe, fast, and always available.\n...\nTell our AI what you want to build. Describe your website or app in plain language.\n...\nLaunch your creation to the world with one click on your own .afroaigroup.com domain.\n\n## Africa Rising. Innovation Without Limits.\n\nAfrica is home to the world's youngest and fastest-growing population. With Afro AI, every dreamer, entrepreneur, and creator can turn their vision into reality. Build the apps that will transform communities, create opportunities, and shape the digital future of the continent.\n\nUbuntu-inspired collaboration tools\n\nMobile-first design for African networks\n\nLocal payment integration with Pesapal\n\nMultilingual support for African languages\n...\nThe Mobile Money payment integration is a game changer. Finally, a platform that works with how\n...\nAffordable plans designed for African innovators. Start free, scale as you grow.\n...\nUnlimited published apps (forever) GPT-4.1 Mini · 32K context Custom domain connection Blog, forms, email marketing Analytics, PWA builder, marketplace\n...\nEverything in Pro GPT-4.1 Full · 32K context (best quality) Team collaboration & roles White-label ready Priority AI responses Priority support\n...\nPayments powered by Pesapal. Pay with Mobile Money, Visa, Mastercard, or bank transfer.\n...\nAn African proverb that guides everything we build. Afro AI is more than a tool — it's a movement to empower every African creator to build the technology that shapes our continent's future."
+    ],
+    "emails": [],
+    "social_links": [],
+    "contact_pages": [
+      "/contact",
+      "/about"
+    ],
+    "search_query": "Afro-centric tech platforms and applications",
+    "categorized": false
+  },
+  {
+    "title": "Think in your mother tongue | TemboAI",
+    "url": "https://temboai.com/",
+    "description": "TemboAI — Africa's AI platform. Chat, create, and reason in African languages, culture, and stories.",
+    "published_date": null,
+    "highlights": [
+      "# Think in your mother tongue. \n\n Other AI translates African languages. Tembo thinks in them. Built for creators, learners, and businesses across the continent.\n...\n### Converse natively \n\n Yoruba, Igbo, Hausa, Swahili, Amharic, Zulu, and 14 more supported African languages. Tembo doesn't translate. It thinks in your language. When you switch between supported languages mid-sentence, it follows naturally. \n\n Try it \n\n \"Explain the Yoruba concept of 'Ori' and why it matters in decision-making.\" \n\n### Learn & preserve \n\n African languages are disappearing. Tembo is a patient tutor. practice pronunciation, learn the greetings your grandmother used, understand the proverbs your parents dropped casually. Every conversation is an act of preservation. \n\n Try it \n\n \"Teach me how to greet elders properly in Igbo. Morning, afternoon, and when visiting someone's home.\" \n\n### Reason deeply \n\n Most AI was trained on Western data. It knows American tax law but not Nigerian trade routes. Tembo brings African context to AI reasoning. Agriculture, logistics, business, culture. Intelligence that starts here. \n\n Try it \n\n \"Analyze market entry for a fintech targeting small traders in Lagos. Consider mobile money, local competition, and seasonal patterns.\"\n...\nWide & versatile\n\n 6 credits\n\n Extended conversations, language practice, creative writing, and cultural context. \n\n### Creators & Filmmakers \n\n Scripts rooted in African mythology. Story arcs drawn from Anansi to Sango. Characters that feel authentically African, not Western archetypes with African names. \n\n### Language Learners \n\n Speak your mother tongue again. Practice with a patient AI that understands tonal nuances, cultural greetings, and the way language actually lives. \n\n### Diaspora\n\n Reconnect with home from anywhere in the world. Culture, language, traditions, and context that generic AI gets wrong or ignores entirely. \n\n### Businesses\n\n Market analysis, logistics, and communication that understands Africa. No more adapting Western AI outputs to fit African realities. \n\n## Tembo speaks. Literally. \n\n African-native voice that gets the tones right. Yoruba pronounced correctly. Swahili spoken naturally. Hear your language the way it's meant to sound. \n\nYoruba Igbo Hausa Swahili Amharic Zulu Swahili"
+    ],
+    "emails": [],
+    "social_links": [],
+    "contact_pages": [],
+    "search_query": "Afro-centric tech platforms and applications",
+    "categorized": false
+  },
+  {
+    "title": "Redirecting...",
+    "url": "https://afridamai.com/",
+    "description": "",
+    "published_date": null,
+    "highlights": [
+      "AfriDam AI | Cosmetic Intelligence for Skin Of Color (Fitzpatrick Scale IV-VI)\n...\nPersonalized skincare built for Melanin Rich Skin families. Restore your glow with technology that understands your roots.\n...\n## Skin Of Color is often overlooked by tech.\n...\nHalf a billion Africans lack access to melanin-accurate skin data.\n...\nBuilt in Lagos\n...\nOur AI isn't just trained, it's cultured. We use localized skin data to ensure every scan is accurate, respectful, and scientifically sound for our unique Melanin tones.\n\n## The Care Hub.\n...\n### AI Scanner\n\nInstant skin texture and health analysis from the comfort of your home.\n...\n### Ingredient Analyzer\n\nInstantly identify child-safe products and decode complex chemical ingredients.\n...\nShop verified skincare from our network of pre-vetted, authentic vendors.\n...\nJoin the movement. Whether you are a certified specialist or a vendor of authentic products, join us to bridge the gap.\n...\n\"AfriDam is a statement that technology must serve every human being, regardless of their skin tone or location.\""
+    ],
+    "emails": [],
+    "social_links": [],
+    "contact_pages": [],
+    "search_query": "Afro-centric tech platforms and applications",
+    "categorized": false
+  },
+  {
+    "title": "SeleVerse — The Pan-African Creator Universe",
+    "url": "https://seleverse.com/",
+    "description": "SeleVerse is the Pan-African social media and creator economy platform for African creators, journalists, and diaspora communities across 54 nations.",
+    "published_date": null,
+    "highlights": [
+      "SeleVerse — ... Pan-African Creator Universe\n...\nSeleVerse is the platform where African creators, journalists, and diaspora communities speak, create, and earn — powered by Sele AI.\n...\n## One Platform. Every African Voice.\n\nFrom Lagos to London, Nairobi to New York — SeleVerse is where the story of Africa is written, spoken, and shared. For creators. For journalists. For the diaspora. For the world.\n...\nAfrican creators, journalists, and diaspora members worldwide.\n...\n## Built Different. Built for Africa.\n\nEvery feature designed with African creators, journalists, and communities at the center.\n...\nSpeak in your language. Sele AI transcribes, translates, and publishes your voice for the world.\n\n### Griot Feed\n\nAfrica's short-form video feed. Record. Post. Go viral on your own terms.\n\n### Long-Form Publishing\n\nFor the journalists and writers. Publish articles with editorial credibility built in.\n\n### AI Language Bridge\n\nBreak language barriers. Sele AI translates between English, Swahili, French, Hausa — and growing.\n\n### Creator Monetization\n\nEarn from tips, fan subscriptions, ad revenue, and brand deals — paid via mobile money and cards.\n\n### Press Verification\n\nJournalists get verified. Credibility is a feature, not an afterthought.\n...\nSeleVerse serves every corner of the African creator ecosystem.\n...\nJournalists & Media\n...\n### Organizations & Newsrooms\n\nMulti-seat workflow for media organizations.\n...\nReach Africa and the diaspora authentically.\n\n## Your AI Editorial Superpower\n\nSele AI — the Newsroom Engine — is the intelligence behind SeleVerse. Write articles. Transcribe voice. Translate languages. Generate headlines. Summarize news. All tuned for African journalism and storytelling.\n...\n## 54 Nations. One Platform. No Borders.\n\nWhether you're in Abuja, Accra, Addis Ababa, or Atlanta — SeleVerse connects the African story across every border, every language, every time zone.\n...\nDownload on Android or iOS — or open the web version on your laptop."
+    ],
+    "emails": [
+      "support@seleverse.com"
+    ],
+    "social_links": [],
+    "contact_pages": [
+      "/contact",
+      "/about"
+    ],
+    "search_query": "Afro-centric tech platforms and applications",
+    "categorized": false
+  },
+  {
+    "title": "AfroMax — The Global Black Community Platform",
+    "url": "https://afromax.app/",
+    "description": "AfroMax is the cultural lifestyle platform built for the Global Black Community. Original entertainment. Real-world events. AfroMax Love — video-only dating, no wahala.",
+    "published_date": null,
+    "highlights": [
+      "AfroMax — The Global Black Community Platform\n...\nAdventures aren't watched—they're lived. Discover content that takes you outside. Date someone you first saw in a video. Dance at events hosted by ambassadors you love. AfroMax turns your screen time into lived experiences.\n\n Your browser does not support the video tag. \n\n##\n...\n### Follow ambassadors who host events you can attend\n...\n### Find love through video — no static photos, no filters\n...\n### Watch videos together while on a voice call — no app switching\n...\n### Send Gold — a video that appears on a friend's next swipe\n...\n### Comment on videos in real time — voice notes included\n...\n### Tip creators with gifts — directly from any video\n...\n### Earn cash promoting events as part of a creator's Street Team\n...\n### Sell tickets and run your events — no third-party platform required\n...\n### Use original AfroMax music in your videos — without copyright strikes\n...\n### Send a Bride Price to reach the singles you really like\n...\nSkip the boring profiles and filtered photos. On AfroMax, singles show you who they really are through video—their personality, their vibe, their authentic self. See them. Hear them. Feel the chemistry before you ever meet. This is dating with your guard down and your confidence up. This is how it should feel.\n...\nYour favorite ambassador just dropped new content? Now imagine meeting them in person. On AfroMax, ambassadors don't just post—they perform. They host nightclub takeovers, intimate concerts, art showcases, and cultural experiences where you're not just a viewer—you're part of the moment. Don't just watch the culture. Live it.\n...\nDive into exclusive short films, dancers performing unique styles, and social experiments that challenge stereotypes. But here's what makes it different: the ambassadors behind this content host real events you can attend. The filmmaker? Meet them at their premiere. The dancer? Watch them perform in person. On AfroMax, content isn't just entertainment—it's your introduction to the people and experiences that could change your life.\n...\nYou have a culture worth sharing. AfroMax gives you the infrastructure to share it and get paid. Upload your content. Build your audience. Host events in cities you’ve never visited — without leaving home. Earn in dollars, get direct payments.\n...\nYou know your city. You know where the Black Community gathers. AfroMax Street Teams put that knowledge to work — selling tickets for creators hosting events in your city, organising the on-the-ground experience, and earning cash commission for every person you bring through the door. Any creator on AfroMax can host an event near you. You're the one who makes it happen.\n...\nAfroMax is engineered with the same technology stack trusted by billions of users worldwide. Your data is encrypted in transit and at rest, your dating profile is private by design, and the platform is protected by enterprise-grade security.\n\n Google Firebase Authentication & Database \n\n Google Flutter Cross-Platform App Framework \n\n Cloudflare Stream Global Video Delivery \n\n Is AfroMax only for black people? + \n\nNo! Just like Hip Hop, Reggae, and Afrobeat transcended borders to become global movements, AfroMax welcomes everyone. We celebrate Black culture and creativity while inviting people from all backgrounds to join, learn, connect, and experience the richness of African and diaspora cultures.\n\nAfroMax is a cultural home for those who know it and a cultural bridge for those discovering it. Everyone belongs here.\n\n How does video\n...\nInstead of static photos and bios, every dating profile on AfroMax is video-based. You see how they move, hear their voice, and feel their energy—before you invest a single message. No catfish, no awkward \"you look different than your photos\" moments.\n...\nAs a beta user, you' ... not just testing an app—you're helping ... the cultural lifestyle ecosystem.\n\n How is AfroMax different from other platforms? + \n\nAfroMax isn't trying to be a better version of what already exists—we're building a Cultural Lifestyle Ecosystem where:\n\n- Original entertainment can go viral rather than videos that just follow trends\n- Video-only dating where your heart skips a beat before you invest a single message \n- Ambassador-led events that bring your favorite cultural ambassadors face-to-face with you\n- Lifestyle ecosystem where dating, events, and content naturally flow together\n- Privacy protection where your dating profile can't be searched\n- Efficient technology that uses less data and battery while delivering premium quality \n\nMost platforms make you choose: dating OR entertainment OR events. AfroMax recognizes your life doesn't work that way. We built a platform that reflects how you actually live—where what you watch influences who you meet and where you go."
+    ],
+    "emails": [],
+    "social_links": [
+      "https://www.linkedin.com/company/afromaxapp",
+      "https://www.facebook.com/afromaxapp"
+    ],
+    "contact_pages": [
+      "/pages/about/",
+      "/pages/contact/"
+    ],
+    "search_query": "Afro-centric tech platforms and applications",
+    "categorized": false
+  },
+  {
+    "title": "Indigenius, Voice AI for Africa",
+    "url": "https://indigenius.ai/",
+    "description": "Automate customer service, create content, and build voice agents in Yoruba, Hausa, and Pidgin. Igbo coming soon. Try Agent Studio & Creative Studio free.",
+    "published_date": null,
+    "highlights": [
+      "Indigenius, Voice AI for Africa\n\n# Afrikan Intelligence AI, shaped by you.\n\nVoice AI Agent for perfect customer experience and sales at scale. Realtime TTS, STT, and agentic workflows in 12 languages, 5 African, with sub-200ms latency.\n...\nHausa, Yoruba, Igbo, Swahili, code-switched with English. Voice biometric auth built in.\n...\n## Two studios. One platform.\n\nThe full African voice stack, built once, shipped everywhere.\n\n### Agents Studio\n\nBuild, test, and deploy voice agents that handle real African customer journeys, from KYC to collections.\n\nREST + Streaming API WebSocket-native, sub-200ms TTFB\n\nTelephony & WhatsApp PSTN, SIP, USSD-to-voice, Twilio\n\n12 languages (5 African) Hausa, Yorùbá, Igbo, Pidgin, Swahili, French, Spanish\n\n180ms latency Edge-deployed across the continent\n\n### Creator Studio\n\nDub, clone, and generate audio at scale. The tools studios, broadcasters, and creators use to reach 1.4B Africans in their language.\n...\nTTS + STT models Streaming, batch, on-device\n...\n## Measurably better in African languages.\n...\n## Where voice meets people.\n\nFive surfaces. One language layer. From the call center to the clinic.\n\n#### Financial Services\n\nBanks, fintechs, and insurers, voice-first KYC, claims, payments, fraud.\n...\nTriage, scheduling, and patient education in mother-tongue languages.\n...\nVoice tutors, literacy, EdTech for every learner.\n\n#### Public Sector\n\nReach every citizen in their mother tongue.\n...\nDub, clone, adapt across 11 languages (4 African) with lip-sync.\n...\nHow do I\n...\nSign in, click Agent in the left-hand menu, then click Create Agent. Configure system prompts, languages, and knowledge base."
+    ],
+    "emails": [],
+    "social_links": [
+      "https://www.facebook.com/indigeniusai",
+      "https://www.instagram.com/indigenius_ai/",
+      "https://x.com/Indigeniusai",
+      "https://www.linkedin.com/company/official-indigenius/",
+      "https://www.youtube.com/@Indigenius_AI"
+    ],
+    "contact_pages": [],
+    "search_query": "Afro-centric tech platforms and applications",
+    "categorized": false
+  },
+  {
+    "title": "AfricaRead | Largest Self Publishing Platform in Africa",
+    "url": "https://africaread.org/",
+    "description": "Self-publish your book on Africa's largest online bookstore. Take advantage of a wider market and easy local payment methods.",
+    "published_date": null,
+    "highlights": [
+      "AfricaRead | Largest Self Publishing Platform in Africa\n...\nExplore editor picks, trending authors, and genres across Africa with recommendations that fit your mood.\n...\nDownload books to your device, sync progress automatically, and pick up on any screen.\n...\n### Fiction & Creative\n...\nIncludes Novels & Short Stories, Poetry & Spoken Word, and Drama/Play.\n...\n### Education & Research\n...\nIncludes Educational Textbooks and Academic Publications.\n\n### Culture & Faith\n...\nIncludes History & Culture, Religious Literature, and Language & Indigenous Literature.\n...\n## Built to help authors thrive\n...\n### High author royalties\n\nEarn industry-leading royalties on every book. Keep more of what you create, with transparent payouts and local currency support.\n...\n### Simplified payment methods\n\nReaders enjoy native payment options across the continent, ensuring frictionless purchases and faster growth for your catalog.\n...\nhighlights, and\n...\n## Carry your bookstore everywhere\n\nBrowse, buy, and read on the go. The AfricaRead mobile app combines a seamless reader experience for book lovers with powerful tools for authors to reach new markets.\n\n- Discover curated titles, personalized to your interests.\n- Enjoy offline reading with automatic sync across devices.\n- Support local authors with secure, localized payment methods.\n...\n## The next chapter of publishing starts with yours.\n\nWhether you're a reader looking for something the algorithms won't find you, or an author ready to meet readers everywhere, there's a place for you here.\n\nPublish today Download app"
+    ],
+    "emails": [],
+    "social_links": [],
+    "contact_pages": [],
+    "search_query": "African literature and publishing digital platforms",
+    "categorized": false
+  },
+  {
+    "title": "Pagia",
+    "url": "https://pagia.io/",
+    "description": "A Digital Archive of African Brilliance. Connect with stories that matter",
+    "published_date": null,
+    "highlights": [
+      "A Digital Archive of African Brilliance\n...\nDiscover, read, and publish authentic African stories. From captivating novels to bold new voices — your next favorite book starts here.\n\nStart Reading — It's Free\n...\n## Why Pagia?\n\nMore than a platform — a movement to celebrate African storytelling.\n...\nAccess thousands of African stories on any device. Your library travels with you.\n\n#### Publish & Earn\n\nShare your story with the world. Set your price, keep your rights, earn from every sale.\n\n#### Open a Bookstore\n\nCurate and sell books through your own digital storefront on Pagia.\n...\nConnect with readers and authors across 30+ African countries and the diaspora.\n...\nFull copyright protection and DRM built in. Your content stays yours.\n...\nPublish your stories and earn from every sale, or open a digital bookstore and curate the best of African literature — Pagia makes it possible.\n...\nDownload Pagia for the best reading experience.\n\nDownload on theApp Store"
+    ],
+    "emails": [],
+    "social_links": [
+      "https://x.com/the_pagia",
+      "https://www.instagram.com/the_pagia?igsh=MWVkYnAxMzYwNGxmNg%3D%3D"
+    ],
+    "contact_pages": [],
+    "search_query": "African literature and publishing digital platforms",
+    "categorized": false
+  },
+  {
+    "title": "BOOKIVO - Africa's First Social Book Publishing Platform",
+    "url": "https://www.bookivoapp.com/",
+    "description": "Publish eBooks, paperbacks, hardcovers & pre-orders on Africa's first social publishing platform. Earn monthly royalties, build subscribers, share voice posts. Where books come alive.",
+    "published_date": null,
+    "highlights": [
+      "BOOKIVO - Africa's First Social Book Publishing Platform\n\n# Africa's First Social Publishing Platform\n\nPublish books across all genres and formats. Set up pre-orders for upcoming releases. Share Voice posts about your writing journey and behind the scenes. Readers browse thousands of books, read free samples, and subscribe for unlimited access to their favorite authors. Direct connection. Fair payment. Real community.\n\nConnecting authors & readers across 11 countries(Nigeria) — and counting\n...\nSimple, powerful, and designed for African authors and readers\n...\nSign up free as an author or reader. Set up your profile in minutes. Authors get verified before publishing.\n...\nAuthors: Upload books, set up pre-orders. Readers: Browse, read free 15% samples, download instantly, pre-order upcoming releases.\n...\nAuthors and readers both post Voice updates, engage with content, subscribe to favorite authors, and grow your literary network.\n...\nbook sales, subscriptions, and monthly royalty bonuses. Withdraw anytime.\n...\n, engagement, and earnings\n...\nUpgrade to Premium or Professional plans for homepage features and VIP support.\n...\nVoice your thoughts, applaud amazing posts, recommend favorites, and engage with authors in real time.\n...\nBOOKIVO combines the best of social media with powerful publishing tools. Publish books across all genres—fiction, non-fiction, poetry, education, and more. Build your brand, connect with fans, and earn sustainable income.\n...\nTurn your writing into a sustainable career. Publish books, build your audience, and earn directly from readers who love your work.\n\n- Publish unlimited e-books, paperbacks & hardcovers\n- Set up pre-orders for upcoming book launches\n- Keep 85-90% of all earnings (highest in Africa)\n- Post daily \"Voice\" updates like Instagram\n- Earn from book sales + reader subscriptions\n- Track sales & engagement in real-time\n- Monthly royalty bonuses based on engagement\n...\nDiscover amazing books across all genres. Follow your favorite authors. Subscribe to unlock exclusive access to ALL their books and premium content. Post your own thoughts and be part of a thriving literary community.\n\n- Discover books across all genres\n- Read free 15% samples from every book\n- Download purchased e-books instantly\n- Follow authors and see their Voice posts\n- Subscribe to authors for exclusive access to ALL their books\n- Pre-order upcoming books from your favorite authors\n- Post your own content & engage with the community\n...\nBuilt specifically for the African market with features that actually matter. Publish fiction, non-fiction, poetry, educational content, and more across all genres.\n...\nAuthors AND readers post Voice updates, share thoughts, build authentic connections, and engage with the literary community.\n...\nEarn from book sales (90%), reader subscriptions (85%), and monthly royalty bonuses (100%).\n...\nTrack sales, views, engagement, demographics, and revenue in real-time with detailed insights.\n\n### African-First, Global-Ready\n\nSupports NGN, USD, GBP, and EUR. Connecting authors and readers across 11 countries — and counting.\n...\nYou own 100% of your rights. Set your own prices. Choose formats. Update books anytime.\n\n### Pre-Order System\n\nLaunch books with pre-orders. Build anticipation. Readers reserve copies before release day. Perfect for building hype.\n...\nPremium authors get genre page features. Professional authors get homepage promotion.\n...\nWithdraw earnings anytime (₦5,000 minimum). Bank transfers arrive in 1-3 business days.\n...\nReaders subscribe monthly to you and get exclusive access to ALL your books and premium content automatically.\n...\nTurn your writing into a sustainable career. Publish books, build your audience, and earn directly from readers who love your work.\n...\n85-90% to authors vs 30-70% on other platforms\n\n### Connecting Authors & Readers Across 11 Countries — and Counting\n\nNigeria, South Africa, Ethiopia, Kenya, Côte d'Ivoire, DR Congo, Uganda, United Kingdom, Italy, United States, and Australia."
+    ],
+    "emails": [],
+    "social_links": [],
+    "contact_pages": [],
+    "search_query": "African literature and publishing digital platforms",
+    "categorized": false
+  },
+  {
+    "title": "Nadbooks — Read African Stories Online",
+    "url": "https://nadbooks.com/",
+    "description": "Discover original African stories, support independent writers, and publish your own work with Nadbooks.",
+    "published_date": null,
+    "highlights": [
+      "Nadbooks — Read African Stories Online\n...\n# A sanctuary for digital words.\n\nDiscover original African stories, support independent writers, and carry your library wherever life takes you.\n\nStart reading → Publish your story Download Android app\n...\n### Back the voices you love\n\nYour reads and purchases directly support independent writers.\n...\n### Earn as you explore\n\nCollect NadPoints, unlock rewards, and invite fellow readers.\n...\nFrom quiet literary ... to sharp ideas and future worlds\n...\nFor the storytellers\n\n## Your words deservea wider world.\n\nUpload your manuscript, shape every chapter, reach your readers, and track every naira—without giving up your voice.\n\nOpen Author Studio →"
+    ],
+    "emails": [],
+    "social_links": [],
+    "contact_pages": [],
+    "search_query": "African literature and publishing digital platforms",
+    "categorized": false
+  },
+  {
+    "title": "Oyiiba — African Stories, Reimagined",
+    "url": "https://oyiiba.com/",
+    "description": "Discover, read, and share African ebooks and comics on Oyiiba — the premier platform for African storytelling.",
+    "published_date": null,
+    "highlights": [
+      "Oyiiba — African Stories, Reimagined\n...\nExplore thousands of captivating ebooks and comics written by African creators. Join a thriving community of writers, readers, and visual storytellers today.\n...\n## Made for African Creators & Readers\n\nDesigned from the ground up to support local payment methods, global reach, and community building.\n...\nSmooth page flipping, custom typography options, night mode, and chapter bookmarks designed for mobile-first audiences.\n...\nAuthors receive up to 90% of book and chapter sales. Support your favorite creators through premium subscriptions.\n...\nDownload chapters, novels, and graphic novels to your local library. Read anytime without consuming mobile data.\n...\nDive into our full library of African literary works and vibrant comics, custom-tailored for story enthusiasts.\n...\n## Join the Vibrant Oyiiba Book Community\n\nStorytelling is never a solitary act. Connect, share, and inspire millions across the continent in our dedicated community circles.\n...\nConnect with like-minded bibliophiles in your city for lively weekend book reviews and cultural discussions.\n...\nLearn the craft of modern storytelling from award-winning African writers who have paved the path before you.\n\n### Comic & Graphic Artists Guild\n...\nCollaborate with talented visual artists to adapt rich oral traditions into futuristic webcomics and manga.\n...\nOyiiba gives African creators direct paths to build audiences, monetize subscription stories, and host collaborative events with readers."
+    ],
+    "emails": [],
+    "social_links": [],
+    "contact_pages": [],
+    "search_query": "African literature and publishing digital platforms",
+    "categorized": false
+  },
+  {
+    "title": "Publiseer – Digital Content Distribution for Africa",
+    "url": "https://publiseer.net/",
+    "description": "",
+    "published_date": null,
+    "highlights": [
+      "Publiseer – Digital Content Distribution for Africa\n...\nEvery day, we discover local African writers, musicians, filmmakers, and game developers, and give them a platform to focus on doing what they love doing, which is to create, while we handle the tedious business of transforming their creativity into wealth for them.\n...\nThe publishing fee of [other] platforms can be costly considering that they have to be paid in dollars. This leaves African creatives with little or no money to promote their works. But with Publiseer, creatives publish at no cost with a bonus service of having their works edited or remastered before they are published.\n\nWhen authors and artistes are accepted on the platform, Publiseer takes care of every necessary media and publishing work from start to finish. All of these at no cost. Indeed, Publiseer is solving a critical problem.\n...\nBefore distribution, we fine-tune content to industry standards so that our creatives stand a chance to compete on a global scale in a very competitive market. This includes book editing, music re-mastering, and video post-production.\n...\nMost digital aggregators distribute to at most 120 digital stores, but we have the most complete distribution channel, which distributes up to 425 digital stores worldwide, thus getting our creatives on every digital platform that matters.\n...\nWe protect the content we distribute from illegal distribution, plagiarism, copyright infringement, and intellectual property theft so that our creatives truly own their content. Every day, we constantly monitor our content.\n...\nOur royalty payout method is feasible for African creatives. Our creatives receive their royalties through African-tailored payment methods, such as into their local bank account or into their mobile money wallet, which is risk-free and convenient.\n...\nWe’re a team of African creatives and software developers, so we understand the challenges you face trying to launch your career independently, and we have built a platform that mitigates all of them."
+    ],
+    "emails": [],
+    "social_links": [
+      "https://twitter.com/wearepubliseer",
+      "https://linkedin.com/company/publiseer",
+      "https://instagram.com/publiseer",
+      "https://facebook.com/publiseer"
+    ],
+    "contact_pages": [
+      "https://publiseer.net/about/",
+      "https://publiseer.net/contact/",
+      "http://publiseer.net/about/"
+    ],
+    "search_query": "African literature and publishing digital platforms",
+    "categorized": false
+  },
+  {
+    "title": "Lolwe | A Pan-African Literary Platform",
+    "url": "https://lolwe.org/",
+    "description": "Lolwe is a Pan-African literary arts platform. Fiction, nonfiction, poetry, hybrid writing, orature, drama, translation, and visual art.",
+    "published_date": "2026-07-22T00:00:00.000Z",
+    "highlights": [
+      "Lolwe | A Pan-African Literary Platform\n\n#### Parfum de passage – Muda Maxana\n\nParfum de passage Muda Maxana 22 July 2026Super-Lemba. I C'est pas un quartier, c'est un carrefour. Un endroit où on ne reste pas, où on passe. Les motos te frôlent l'épaule, klaxonnent pour rien, pour tout, pour te dire « Je suis là, dégage ou crève ». Les pneus...\n\n#### Come Come, Let’s Go Cycling in the Woods – Afọpẹ́fólúwa Òjó\n\nCome Come, Let’s Go Cycling in the Woods Afọpẹ́fólúwa Òjó 25 May 2026We speed downhill past the wild thorns, pass the vestingbar, go beyond the witbreuksweg into the woods, past the thick bushets and olive groves that constantly seek out each other, grow together. An...\n\nLivraison le même jour Nathan Abeta 25 May 2026Le soleil n’avait pas encore séché la rosée sur les toits de tôle ondulée de Yopougon Maroc qu’Abou était déjà pris au piège. L’air était épais des odeurs mêlées du réveil du quartier : le puissant relent des ordures du...\n\nAutopsie d’un pays encore vivant Richard Stanley PhiliusÀ tous ceux qui, un jour, ont connu la peur Cette sombre nuit torrentielle où il pleut à grosses gouttes, on dirait que la pluie bat de plein fouet la capitale. Les familles, barricadées derrière leurs murs et...\n\nThese Mothering Seasons Zainab OmakiThe tap water is tepid. You stand at the sink, running a soapy sponge over a glass plate trimmed with hibiscus flowers. At your side, your son has his arms wrapped around one of your legs. He is screaming. Deep from his little...\n\n#### The Couch – Zanta Nkumane\n\nThe Couch Zanta Nkumane 16 May 2020IThe couch is a living thing – did you know? That’s why I can’t take it with me. I can take the fridge because it’s not a living thing. It breathes cold air. I can take the cutlery or maybe the washing machine for practicality and to...\n\n### Readers’ Favourites\n\n#### Our Girl, Bimpe – Olakunle Ologunro\n\nOur Girl, BimpeOlakunle Ologunro 1. In 2017, Bimpe Adedeji created another Facebook account. The reasons for this are numerous, but to sum it up in one point, she had become mature. The first time she created a Facebook account was in 2013, the year Facebook became..."
+    ],
+    "emails": [],
+    "social_links": [
+      "https://twitter.com/Lolwe_",
+      "https://www.instagram.com/_lolwe/",
+      "https://www.youtube.com/channel/UCktDqCihhjWWf3a5uMOdlnA",
+      "https://www.facebook.com/lolwemagazine/"
+    ],
+    "contact_pages": [
+      "https://lolwe.org/about/"
+    ],
+    "search_query": "African literature and publishing digital platforms",
+    "categorized": false
+  },
+  {
+    "title": "TapBlk | Black Networking & Community Platform",
+    "url": "https://www.tapblk.com/",
+    "description": "TapBlk is a Black-owned, AI-powered platform where Black professionals, entrepreneurs, creators and supporters connect, discover opportunities and build community.",
+    "published_date": null,
+    "highlights": [
+      "TapBlk | Black Networking & Community Platform\n...\nUnity is the TapBlk home base for discovering real member activity: posts, groups, TapIns, events, service requests, referrals, and opportunities from the network.\n...\nTapBlk was created by Go Black Own, a Black-owned technology company building digital experiences with our culture and community at the center. We’re not just building for the culture—we’re building from within it."
+    ],
+    "emails": [],
+    "social_links": [],
+    "contact_pages": [],
+    "search_query": "Black-owned technology networks and directory apps",
+    "categorized": false
+  },
+  {
+    "title": "Everything Black — A Safe, Curated Home for the Black Internet",
+    "url": "https://everythingblack.xyz/",
+    "description": "Everything Black is a safe, human-curated space for the Black community to assemble online — a browser with Feedz (our community board), Black Wiki, news, podcasts, a GUAP wallet, .guap domains, and the largest directory of Black-owned businesses.",
+    "published_date": null,
+    "highlights": [
+      "Everything Black is a human-curated home where the community assembles. Post, talk, and vote on Feedz — with real rules: report and block on every post, and violations gone within 24 hours.\n...\n9 Apps, one home\n...\nBig social was never built for us. Everything Black is — a curated, moderated, community-owned corner of the internet where you can speak, gather, and build in peace.\n...\nEvery business in the directory is reviewed by our team before it goes live — and the community can flag a dead or wrong listing in one tap. A directory you can actually trust.\n\n Under review→ Verified & listed· 34,377 and counting\n...\nFeedz — our community board — has zero tolerance for hate and harassment. Report and block live on every single post, and violating content is gone within 24 hours. The person who posted it goes with it.\n\n Report Block Reviewed within\n...\nNo ads sold on your data ... Your GUAP wallet is created and encrypted on your own device, and your . ... name lives on-chain. We’re not renting space on somebody else’s platform — that’s the point.\n...\n### One home. Nine doors.\n\nEvery app opens with your one EB wallet\n\nFeedz community board Black Wiki encyclopedia Lore folktales & legends EB News headlines all day Podcasts Black voices Resources community support EB Kids games & trivia.guap Domains your name, on-chain EB TV coming soon Feedz community board Black Wiki encyclopedia Lore folktales & legends EB News headlines all day Podcasts Black voices Resources community support EB Kids games & trivia.guap Domains your name, on-chain EB TV coming soon\n...\nThe gathering place and the tools to run it: the most comprehensive Black business directory, a culturally-aware AI, community you can trust, and an identity you own — all behind a single tab.\n\n### 34,377+ Black-owned businesses, instantly searchable.\n\nIndexed in Typesense with typo tolerance, faceted filters, and sub-50ms response. From single-shop bakeries to fortune-listed brands — one place, no \"Supplier Diversity\" sludge.\n...\nAny artifact the AI generates can be shipped to a sandboxed page at pages.everythingblack.xyz — readable URL, thumbnail, share sheet.\n...\n### EB Browser Lite"
+    ],
+    "emails": [
+      "email@business.com",
+      "info@everythingblack.xyz"
+    ],
+    "social_links": [],
+    "contact_pages": [
+      "/contact",
+      "/about"
+    ],
+    "search_query": "Black-owned technology networks and directory apps",
+    "categorized": false
+  },
+  {
+    "title": "âBlack Tech Exchange App - App Store",
+    "url": "https://apps.apple.com/us/app/black-tech-exchange/id6757788419",
+    "description": "Download Black Tech Exchange by Dapper Artisan Company LLC on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Black Techâ¦",
+    "published_date": null,
+    "highlights": [
+      "Black Tech Exchange Discover. Support. Share. BTE (Black Tech Exchange) is a curated marketplace for discovering apps, platforms, and digital products built by Black founders. Technology is shaping the future of how we live, work, and connect. BTE exists to make it easier to explore innovative tech products while supporting the founders behind them—all in one place. What You Can Do with BTE • Discover apps and digital tools created by Black founders • Browse products across categories like productivity, finance, wellness, social, education, and more • Explore detailed app profiles with descriptions, links, and use cases • Stay up to date with new and emerging tech projects • Share and support innovative products you believe in Whether you are a user looking for high-quality apps or a founder seeking visibility, BTE serves as a discovery layer connecting people to technology with purpose."
+    ],
+    "emails": [
+      "support@revenuecat.com"
+    ],
+    "social_links": [],
+    "contact_pages": [
+      "https://apps.apple.com/us/app/wazzle-memory-contacts/id1513204845"
+    ],
+    "search_query": "Black-owned technology networks and directory apps",
+    "categorized": false
+  },
+  {
+    "title": "BlackUp",
+    "url": "https://blackuptech.com/",
+    "description": "Making job equity a reality",
+    "published_date": null,
+    "highlights": [
+      "BlackUp uses modern A.I. and ML technology to connect fully qualified, experienced, and professional Black candidates with open positions in leading companies.\n...\nBlackUp is a sophisticated non-biased A.I. & ML algorithm that matches job openings to Black professional applicants. \n\nA new tech-engineered platform that leverages A.I. & ML to make it easy for companies to find and hire Black talents, onboard and manage their experiences.\n\nMost U.S. corporations have a goal to increase the number of Black professionals within their organization with no viable tools to achieve that goal. With the help of the BlackUp machine learning algorithm, companies can begin to make real progress.\n...\nTo use our A.I. tools and platform to increase the pool of Black professionals available to corporations all over the U.S., so they meet their BEI objectives.\n...\nTo become the blueprint of all other agencies and technologies that are used to find and hire more working Black professionals, thus lowering the unemployment rate of highly qualified talent to all-time lows.\n...\nWe keep it simple. Create a home for incredible Black talent to network and connect while offering access to these candidates for all corporations and businesses seeking to improve their workforce.\n...\nWith BlackUp, your business will gain valuable access to a candidate pool of incredible talent. We are a Black-focused recruiting platform that runs entirely on data analytics and A.I. That means you get the skills needed to fulfill your diversity openings that improve your business and Black Equity and Inclusion requirements.\n...\nTrack your Black Equity and Inclusion Metric and progression.\n\nOur business clients can post their open positions for our candidates to explore, and our individual candidates can post their resumes to be matched with these positions."
+    ],
+    "emails": [],
+    "social_links": [],
+    "contact_pages": [],
+    "search_query": "Black-owned technology networks and directory apps",
+    "categorized": false
+  },
+  {
+    "title": "Black-Owned Tech Startups Worldwide | blowned.biz",
+    "url": "https://www.blowned.biz/",
+    "description": "The global directory of Black-owned funded tech startups — from Lagos to London, Nairobi to New York. Explore hundreds of startups across six continents.",
+    "published_date": null,
+    "highlights": [
+      "# Discover Black-Owned\n\nStartups Worldwide\n\nA curated directory of innovative Black-owned startups from every continent. Explore, connect, and support.\n...\nThe world's largest database of Black-owned funded tech startups."
+    ],
+    "emails": [],
+    "social_links": [],
+    "contact_pages": [],
+    "search_query": "Black-owned technology networks and directory apps",
+    "categorized": false
+  },
+  {
+    "title": "BBE App: Elevate, Connect, Thrive",
+    "url": "https://bbeapp.com/",
+    "description": "",
+    "published_date": null,
+    "highlights": [
+      "Join a vibrant community, unlock exclusive opportunities, and empower your business with the BBE App.\n...\nUnlock powerful tools to connect, grow, and empower Black businesses and communities.\n...\nGet real-time updates on news, promotions, and stories from Black-owned businesses.\n\n### Business Map\n\nDiscover nearby Black-owned businesses with our interactive map.\n...\nCollaborate and share resources in community-driven groups.\n...\nConnect directly with business owners and community members.\n...\nJoin the BBE community in just a few simple steps and start connecting with Black businesses today\n...\nInstall the BBE App from the App Store or Google Play Store\n...\nStart exploring and connecting with Black businesses!\n...\nPreview the BBE App's vibrant interface and dynamic features in action.\n...\nChoose the perfect plan to unlock the full potential of the BBE App and connect with Black businesses.\n...\n### Network Only\n...\n- Access to BBE Network\n- Community Support Network\n- Valuable Event Discounts\n- Basic Networking Features\n- Member Directory Access\n...\n- Access to BBE Network\n- Community Support Network\n- Valuable Event Discounts\n- Basic Networking Features\n- Member Directory Access\n- Annual Member Badge\n...\nA trailblazing leader who transformed from cleaning celebrity homes to spearheading a global revolution in Black entrepreneurship. Born in Italy to Ghanaian parents, Nancy's journey from facing racial adversity to founding Black Business Enterprises (BBE) is nothing short of inspiring. Her vision and resilience have created a platform empowering thousands of minority entrepreneurs, reshaping lives, and driving systemic change across the world.\n...\nBlack Business Enterprises (BBE) is an outstanding platform for entrepreneurs, professionals, and creatives looking to connect, collaborate, and grow. It serves as a hub for networking, offering valuable insights into entrepreneurship, business development, and funding opportunities. One of BBE's greatest strengths is its commitment to fostering a supportive community. Whether you're a startup founder or an established business owner, the platform provides access to resources, mentorship, and connections that can help elevate your brand. The calendar of special events is a highlight, featuring showcases of Black excellence, business expos, and networking mixers that create opportunities for visibility and collaboration. These events not only celebrate achievements but also provide a space to learn from industry leaders and gain practical strategies for success. BBE is more than just a networking space—it's a movement dedicated to economic empowerment and sustainability within the Black business community. If you're looking for a space where business meets culture, innovation, and support, Black Business Enterprises is the perfect place to be. Proud member of this exceptional organization!\n...\n## Why Choose BBE App?\n\nDiscover a platform crafted to empower Black businesses and foster community excellence through innovation and support.\n\n### Community-Driven Platform\n\nEngage with a dynamic network dedicated to collaboration and growth for Black entrepreneurs.\n\n### Support Local Businesses\n\nElevate Black-owned businesses in your community with seamless discovery and promotion.\n...\n## Join the BBE Community\n\nOver 10,000 members connected\n...\nDownload on the App Store Get it on Google Play"
+    ],
+    "emails": [
+      "designs@blackbusinessenterprises.org"
+    ],
+    "social_links": [
+      "https://www.facebook.com/BLACKBUSINESSENTERPRISES",
+      "https://x.com/blackbusinessmn",
+      "https://www.instagram.com/black_business_enterprises/",
+      "https://www.linkedin.com/company/black-business-enterprises/"
+    ],
+    "contact_pages": [],
+    "search_query": "Black-owned technology networks and directory apps",
+    "categorized": false
+  },
+  {
+    "title": "BLAC Network Vendor Portal",
+    "url": "https://blacnetwork.com/",
+    "description": "Your secure gateway to BLAC Network's premium services. Effortlessly submit your information and required documents through a streamlined, branded portal designed for efficiency and trust.",
+    "published_date": null,
+    "highlights": [
+      "BLAC Network\n\n A transformative membership club dedicated to driving economic growth and empowerment within Black communities across North America. Are there no other regions or not yet..CZ \n\n Of the $1.8 trillion spent annually by Black communities in North America, yet only 2% of this wealth stays within our community. \n\n Individuals of African descent, often sharing cultural, historical, and social experiences, and are characterized by a sense of solidarity and shared identity. \n\n Vendors, Subscribers, Shoppers, Affiliates, Associated Partners.\n...\nStep into a global movement that's reshaping the economic foundation of Black communities| across the world with BLAC Network. Download the app today!\n\n#### BLAC Network\n...\nAt BLAC Network people, profit, and culture matter to us. It's the trifecta that brings our app, the people in our app and what we do together. We empower Black entrepreneurs, drive economic success, and celebrate our vibrant, diverse cultural heritage.\n...\nAt BLAC Network, we are ateam of dedicated and passionate individuals committed to driving economic empowerment and growth. We empower businesses by offering tools, resources, and connections needed to thrive. Through our innovative platform, we celebrate Black excellence, drive economic success, and foster collaboration.....\n...\nEnjoy special deals and discounts from partnered vendors and merchants, available exclusively to BLAC Network members. \n\n###### Digital Membership\n\nReceive a digital card to spend money within the app or at partnered stores, online or offline. Use it to access exclusive deals.\n...\nEarn 10% more on every transaction within the network, boosting your earnings and supporting the community.\n...\nShowcase your products and services to a dedicated audience, increasing exposure and driving more sales.\n...\nAccess expert advice, how-to guides, and industry trends to help your business grow and thrive.\n...\nJoin a vibrant community of like-minded BLAC k entrepreneurs, fostering collaboration, inspiration, and mutual success.\n...\nJoin a dynamic community of black entrepreneurs and businesses, right at your fingertips.\n...\nAccess valuable tools, guides, and insights to help your business grow and thrive.\n...\nEarn 10% more on transactions within the network, boosting your financial success.\n...\nmore sales.\n...\nReceive real-time updates, event notifications, and important news directly through the app.\n...\nBLAC Network resources provide access to essential advice, industry insights, and valuable tools designed for everyone in our community. Explore articles, guides, events, and connections that empower you to grow, innovate, and succeed.۔\n...\n## Our app is available for Android & iOS\n\nDownload the BLAC Network app today to unlock exclusive deals, earn extra with BLAC DOLLAR, and enjoy all the perks of membership, whether you're on Android or iOS.۔\n\nUse ... :910fe2\n...\n## Faqs\n\n Who can join the BLAC Network? \n\n Anyone can join the BLAC Network! Whether you're looking for exclusive discounts, rewards like BLAC DOLLAR, or a supportive community, our app is open to all who align with our mission to empower Black communities and promote Black excellence. \n\n How do I earn BLAC DOLLAR? \n\n You can earn BLAC DOLLAR by making purchases through the app. For every transaction, you’ll receive 10% more in rewards. \n\n Is the BLAC Network app free to use? \n\n Yes, the BLAC Network app is completely free to download and use. Membership provides additional perks, but there are no mandatory fees. \n\n Where can I use the BLAC Network digital membership card? \n\n The digital membership card can be used at participating stores both online and in physical locations to unlock exclusive discounts. \n\n How do I get support if I have an issue with the app? \n\n If you encounter any issues or have questions, you can contact our support team through the app or by reaching out via email or social media. We’re here to help."
+    ],
+    "emails": [],
+    "social_links": [],
+    "contact_pages": [
+      "/contact"
+    ],
+    "search_query": "Black-owned technology networks and directory apps",
+    "categorized": false
+  },
+  {
+    "title": "Litwork – Discover & Support Black-Owned Businesses",
+    "url": "https://litwork.info/",
+    "description": "Litwork is the #1 app to discover, shop, book, and connect with Black-owned businesses near you. Download now on iOS and Android.",
+    "published_date": null,
+    "highlights": [
+      "Litwork – Discover & Support Black-Owned Businesses\n...\n# The App Built forBlack-OwnedBusinesses & Their Communities\n\nDiscover verified Black-owned businesses, shop products, book services, message owners, and connect with your community — all in one place.\n...\nThree steps to start discovering and supporting Black-owned businesses in your area.\n...\nSearch by location, category, or keyword. Browse the map or scroll through 25+ business categories to find exactly what you need.\n...\nBuy products or schedule services directly in the app. Secure Stripe checkout and instant appointment confirmation — no phone calls needed.\n...\nMessage business owners directly, join the Village community, and share your experiences to help others discover great local businesses.\n...\nLitwork is the complete ecosystem for Black-owned businesses and the communities that support them.\n...\nSemantic search understands what you mean — not just keywords. Describe what you need and find the right business instantly.\n\n### Black-Owned Verification\n\nThree-tier verification system ensures every listed business is authentically Black-owned. Level 1 approves instantly on submission.\n...\nBrowse real products from local businesses, add to cart, and checkout securely. Inventory updates in real-time from every seller.\n...\nBeauty, Health & Wellness, Professional Services, Events, and more — all with instant confirmation.\n...\nReal-time B2C messaging lets customers chat with business owners. Business owners see all conversations in a unified inbox.\n\n### The Village Community\n\nFeed, Mentors, Events, and Collaborate tabs build real relationships between business owners and the community around them.\n...\nFeature your business on the home page, category pages, or search results. Three premium placement options to boost visibility.\n\n### Map & Local Discovery\n\nInteractive map shows verified businesses near you with real-time location detection. Tap any pin to explore the full profile.\n...\nList your Black-owned business and reach thousands of customers who are actively looking to support businesses like yours.\n...\nPromotion Placements —\n...\nEvery business on Litwork goes through our verification process so customers know they're genuinely supporting Black-owned businesses.\n...\nLitwork makes it simple to find, shop, book, and connect with Black-owned businesses in your city.\n\nFind Businesses Near You — Search by category, keyword, or browse the interactive map\n\nShop Local Products — Discover and buy products from multiple businesses in one checkout\n\nBook Appointments — Schedule services in seconds — no phone calls or DMs needed\n\nMessage Businesses — Ask questions and get personalized answers before you book or buy\n\nJoin the Village — Connect with the community, find mentors, and discover local events\n...\n> \"I discovered 12 Black-owned businesses in my neighborhood I didn't even know existed. The Village community makes it feel like way more than just a business directory.\"\n...\nDownload Litwork for free and start discovering, shopping, and supporting Black-owned businesses today."
+    ],
+    "emails": [],
+    "social_links": [],
+    "contact_pages": [],
+    "search_query": "Black-owned technology networks and directory apps",
+    "categorized": false
+  },
+  {
+    "title": "Pro Black | Black-Owned Businesses, Products & Services",
+    "url": "https://problack.co/",
+    "description": "Discover Black-owned businesses across the U.S. Shop products, book services, explore local businesses, and support Black entrepreneurship on Pro Black.",
+    "published_date": null,
+    "highlights": [
+      "Pro Black | Black-Owned Businesses, Products & Services\n\n# Black-Owned Businesses Build Stronger Communities\n\nDiscover verified Black-owned sellers and shop thousands of products that make an impact.\n\n- Verified Businesses Shop with confidence\n- Secure Marketplace Safe & reliable payments\n- Community Impact Support Black-owned sellers\n- Make a Difference Every purchase matters\n...\n## Tech for a Brighter Future\n...\n- 9,667 Products from Black-owned sellers\n- 19 Verified businesses in 14 states\n- 81 Community members\n- 260 Orders placed securely\n...\n## Featured Black-Owned Businesses\n\n- ### Ne Ndoro\n\nHair & Beauty · Richmond , CA\n\nView Store \n- ### Solid X TV LLC\n\nEntertainment · Bloomfield Township, MI\n\nView Store \n- ### Top of the Line Cleaning Inc.\n\nProfessional · Buffalo, NY\n\nView Store \n- ### American Credit Solutions\n\nBusiness & Industrial · Lawton, OK\n\nView Store \n- ### CathedraNYC\n\nHair & Beauty · New York, NY\n\nView Store \n\n## Support Black-Owned\n\n## Supporting Black-Owned Businesses\n\nLearn how supporting Black-owned businesses strengthens communities, creates opportunities and contributes to long-term economic growth."
+    ],
+    "emails": [
+      "info@problack.co"
+    ],
+    "social_links": [
+      "https://www.instagram.com/problack.co_/",
+      "https://www.facebook.com/problackco",
+      "https://www.youtube.com/@ProBlack_Co"
+    ],
+    "contact_pages": [
+      "/contact"
+    ],
+    "search_query": "Black-owned technology networks and directory apps",
+    "categorized": false
+  },
+  {
+    "title": "âObsidiÂ® App - App Store",
+    "url": "https://apps.apple.com/us/app/obsidi/id1645597175",
+    "description": "Download ObsidiÂ® by BPTN on the App Store. See screenshots, ratings and reviews, user tips, and more apps like ObsidiÂ®.",
+    "published_date": "2023-11-29T10:56:51.000Z",
+    "highlights": [
+      "# Obsidi‪®‬9+\n## For Black tech talent & allies\n## BPTN\n* * 5.0 •1 Rating\n* * Free\n## iPhone Screenshots\n...\nIntroducing Obsidi, the ultimate tech job board for Black tech professionals and our allies seeking exciting job opportunities in the tech industry. With Obsidi, you can search, find, and apply for coveted positions at top-tier employers across North America.\nObsidi is much more than a job board. Join our growing network of over 70,000 members to unlock opportunities like the BFUTR Global Tech Summit, engage with industry leaders, build powerful connections, and create collisions that can propel your career.\nPlus, gain exclusive access to live and digital member-only events to expand your professional network and stay ahead of the curve.\nBest of all, Obsidi is completely free! Download the Obsidi app today and take the first step toward your dream career in tech.\n...\nInformation\nSellerBLACK PROFESSIONALS IN TECH NETWORK INC\nSize48.5 MB\nCategoryBusiness\nCompatibilityiPhoneRequires iOS 13.4 or later.iPod touchRequires iOS 13.4 or later.Apple VisionRequires visionOS 1.0 or later.\nLanguages\nEnglish\nAge Rating9+Infrequent/Mild Profanity or Crude HumorInfrequent/Mild Mature/Suggestive Themes\nCopyright© 2024 BPTN Inc.\nPriceFree\n* Developer\n...\nApp Support"
+    ],
+    "emails": [
+      "support@sendwithpaper.com",
+      "hello@spotwork.co"
+    ],
+    "social_links": [],
+    "contact_pages": [],
+    "search_query": "Black-owned technology networks and directory apps",
+    "categorized": false
+  },
+  {
+    "title": "Archivo Afro",
+    "url": "https://archivoafro.org/en/",
+    "description": "",
+    "published_date": null,
+    "highlights": [
+      "Muntú Bantú is a Memory Center for Documentation and Afrodiasporic Materialities located in Quibdó, the capital city of Chocó, Colombia. Thank you for visiting our digital archive, where we seek to showcase archives and primary sources important to the history of the Chocó, the Colombian Pacific region, and the African Diaspora. Archivo Afro has received financial support from the Mellon Foundation Just Futures Initiative grant N-2009-09221 entitled “Dispossessions in the Americas: the Extraction of Bodies, Land, and Heritage from la Conquista to the Present”, administered by the University of Pennsylvania and coordinated by Principal Investigator: Tulia G. Falleti. We are also grateful for additional funding received from the Social Sciences and Humanities Research Council of Canada and from Penn Libraries, the University of Pennsylvania, the University of New Brunswick, and the University of Michigan. Thank you to everyone: the Semillero de Jóvenes of Muntú Bantú, María Fernanda Parra, Sergio Mosquera Mosquera, Daniel Varela Corredor, Claudia Leal, Kelly López-Roldán, Ann Farnsworth-Alvear, Daniel Tubb, Cynthia Heider, Brie Gettleson, and Andy Janco.\n\n## Archives + Primary Sources\n...\n### Fondo Chocó - Audiovisuales - Archivo Fotográfico y Fílmico del Chocó - Videoteca\n...\n### Fondo Chocó - Archivos - Archivo Histórico del Juzgado del Circuito de Istmina (1860-1930)\n...\n### Archivo Histórico del Juzgado del Circuito de Istmina. Casos digitalizados. Fondo Minería 1930-1980.\n...\n### Fondo Chocó - Archivos - Archivo Histórico Judicial de Istmina 1930-80, Casos procesados en formato Word. Fondo Minería 1930-1980.\n...\n### Archivo Histórico Judicial de Medellín_Universidad Nacional, Sede Medellín\n...\n### Fondo Chocó - Archivos - Documentary Catalog for the History of Mining in the Chocó\n...\n### Catálogo-en-proceso: AHJCI_Minería y Familia 1930-1980\n...\n### Fondo Chocó - Entrevistas - Entrevista con Julián Ocoró Cachimbo, grabada por Ann Farnsworth-Alvear en Agosto 1998\n...\n### Fondo Chocó - Entrevistas - Interview with Patrick O'Neill (New Canaan, CT--2007)\n...\n### Fondo Chocó - Archivos - Los informes anuales de la Compañía Minera Chocopacífico (en inglés)\n...\nPlatinum - Pamphlet (1920), ... by CMCP\n...\n### Rivers of Gold - Pamphlet (1945) published by CMCP in collaboration with Forbes\n...\n### Fondo Chocó - Map - 1970s\n...\n### Álbum de fotografías - Archivo General de la Nación\n...\n### Álbum de fotos - Colección Houghton - para el permiso de acceder al enlace escriba por favor a farnswor@upenn.edu\n...\n### Fondo Chocó - Fotografías - Album of N. C. Marshall - Photographs taken in Colombia, 1910s - 1950s - Marshall Family Collection, Sun Prairie, Wisconsin\n...\n### Fondo Chocó - Fotografías - Lewisohn Stadium\n...\n### Álbum de fotos: La hidroeléctrica en La Vuelta, fotografías actuales de la (2024)\n...\n## Exhibits, Publications, and Projects\n...\nón Fló ... and Scandalous Cohab ... and Abuse of Authority ... Translation supported by Hobart and William Smith Colleges and by the Social\n...\n### En proceso: Cartilla de historia: La industrialización y desindustrialización del medio San Juan en el sigo XX\n...\n### Godoy, Matías, ¡Libres! (2025) 12\n...\n### Enlace para descargar el libro: Memorias vivas de un archivo muerto (Publication supported by the Hershey Fund of the Wolf Humanities Center at the University of Pennsylvania, as well as by funding from University of Michigan and SSHRC.)"
+    ],
+    "emails": [
+      "farnswor@upenn.edu",
+      "muntubantu@gmail.com"
+    ],
+    "social_links": [
+      "https://upenn.box.com/s/2945rurlfslfsh20huf5r0ckgor7rydd",
+      "https://upenn.box.com/v/entrevistapon",
+      "https://upenn.box.com/s/kafp5sfpz66kts02a7mprjau3i98a248",
+      "https://upenn.box.com/s/8qkvpjyejqz4cdez7ivkyfmo74dlue5e",
+      "https://upenn.box.com/v/CapitulosGodoy01",
+      "https://upenn.box.com/s/pignq8u7pwuquiplr0xcgaek16o5uyno",
+      "https://upenn.box.com/shared/static/go3vg34p4n344kz7jeqja346y0w9fe5s.pdf",
+      "https://upenn.box.com/v/entrevistajoc",
+      "https://upenn.box.com/v/RiversofGold",
+      "https://upenn.box.com/v/sagapinformespublicados",
+      "https://upenn.box.com/v/AndaguedaPresente",
+      "https://upenn.box.com/v/mapasvariaschoco",
+      "https://upenn.box.com/v/PantaleonFlorez",
+      "https://upenn.box.com/v/medellinjudicial",
+      "https://upenn.box.com/v/ColeccionMarshall",
+      "https://upenn.box.com/s/ezpp32x9p0yps244buzweyqfyn67h5lq"
+    ],
+    "contact_pages": [
+      "#about"
+    ],
+    "search_query": "Afro-descendant cultural archives and web projects",
+    "categorized": false
+  },
+  {
+    "title": "Repositorio Digital Fondo Afro-Andino: Página de inicio",
+    "url": "https://fondoafro.uasb.edu.ec/",
+    "description": "",
+    "published_date": null,
+    "highlights": [
+      "Repositorio Digital Fondo Afro-Andino: Página de inicio \n\n### Comunidades en DSpace \n\nElija una comunidad para visualizar sus colecciones. \n\n#### 01. Colección de Audio - FA 2078 \n\nMás de 3000 horas de grabación, dividida en dos categorías\n\n#### 02. Colección de Fotografía - FA 2329 \n\nCon más de XXXX fotografías, divididas en dos categorías.\n\nUNIVERSIDAD ANDINA SIMÓN BOLÍVAR, SEDE ECUADOR FONDO DOCUMENTAL AFRO-ANDINO JUAN GARCÍA SALAZAR Toledo N22-80 (Plaza Brasilia) Teléfonos (593 2) 3228085 Quito - ECUADOR E-mail: fondoafro@uasb.edu.ec https://fondoafro.uasb.edu.ec"
+    ],
+    "emails": [
+      "fondoafro@uasb.edu.ec"
+    ],
+    "social_links": [],
+    "contact_pages": [],
+    "search_query": "Afro-descendant cultural archives and web projects",
+    "categorized": false
+  },
+  {
+    "title": "Digital Portobelo: Art + Scholarship + Cultural Preservation | A DIL/IAH Faculty Fellows Project",
+    "url": "https://digitalportobelo.org/",
+    "description": "",
+    "published_date": null,
+    "highlights": [
+      "Digital Portobelo is an interactive online collection of ethnographic interviews, photos, documentaries, short videos, artwork, and archival material illuminating the rich culture and history of Portobelo, Panama. Portobelo is a small rural community located on the Caribbean coast of the Republic of Panama best known for its Spanish colonial heritage, its centuries-old Black Christ festival, and an Afro-Latin community who call themselves and their carnival performance tradition “ Congo.” Click on the tabs above to learn more about the material currently contained on the site. You may access the archive either by clicking on the tap above and selecting an interviewee or by clicking on the “ interactive project” tab. You may also listen to archived interviews via SoundCloud.\n\nIn addition to the material found in the archive, Digital Portobelo features two original documentaries, which my collaborators and I created. They are “ When the Devils Could Fly–A Tribune to Celedonio Molinar Ávila of Portobelo, Panama” and “ Comparsa Barrio Fino.” Like most digital humanities projects, we are a work-in-progress. Check back with us often to watch us grow!"
+    ],
+    "emails": [],
+    "social_links": [],
+    "contact_pages": [
+      "https://digitalportobelo.org/about-portobelo/contemporary-view/",
+      "https://digitalportobelo.org/about-portobelo/storied-historical-view/",
+      "https://digitalportobelo.org/about-portobelo/"
+    ],
+    "search_query": "Afro-descendant cultural archives and web projects",
+    "categorized": false
+  },
+  {
+    "title": "Memoria Digital Afro",
+    "url": "https://memoriadigitalafro.org/",
+    "description": "Memoria Digital Afro es plataforma multimedia que y amplifica las voces y producciones Afrodescendientes de América Latina y el Caribe.",
+    "published_date": "2021-03-02T00:00:00.000Z",
+    "highlights": [
+      "Memoria Digital Afro\n\n#### En la Memoria Digital Afro encontrarás producciones de personas Afrodescendientes de América Latina y el Caribe sobre temas como ascendencia, literatura, artes, ciencias sociales, educación, derechos humanos, cultura, salud, emprendimiento, inmigración, territorial, natural, y más. Puedes acceder (y enviar) a videos, audios, fotos, artículos y libros digitales para facilitar el acceso y la difusión de información. \n\n#### Nuestra misión principal mostrar que las prácticas literarias, las prácticas curativas, la construcción de conocimientos y las festividades de Afrodescendientes en la región constituyen un repertorio de saberes producidos y constituye en gran parte lo que ahora se llama América Latina y el Caribe. \n\n \n\n \n\n \n\n## ¿Dónde Estamos?\n\nAyúdanos a amplificar narrativas e historias negras y hacer una recomendación para que un proyecto se agregue a la Memoria Afro Digital."
+    ],
+    "emails": [
+      "contacto@memoriadigitalafro.org",
+      "memoriadigitalafro@gmail.com"
+    ],
+    "social_links": [
+      "http://facebook.com/memoriadigitalafro",
+      "https://www.instagram.com/memoriadigitalafro/",
+      "http://instagram.com/memoriadigitalafro",
+      "https://www.facebook.com/memoriadigitalafro",
+      "https://www.youtube.com/@memoriadigitalafro"
+    ],
+    "contact_pages": [
+      "mailto:contacto@memoriadigitalafro.org",
+      "https://memoriadigitalafro.org/contactanos/",
+      "https://memoriadigitalafro.org/contacto/"
+    ],
+    "search_query": "Afro-descendant cultural archives and web projects",
+    "categorized": false
+  },
+  {
+    "title": "Archivo Negro - Nuestra cultura a través del lente.",
+    "url": "https://www.archivonegro.org/",
+    "description": "Archivo Negro: Explora la rica cultura afrodescendiente en Puerto Rico. Imágenes, arte y documentos históricos que celebran y preservan nuestra herencia. Descubre, aprende y conecta con nuestra historia.",
+    "published_date": null,
+    "highlights": [
+      "¡Bienvenides a Archivo Negro! La aportación histórica de Movimiento Anansé Inc. para rescatar la memoria visual de nuestra negritud desde las familias, fotógrafes y artistas que se han dedicado a documentar nuestra cultura. Te invitamos a explorar y conectarte con el primer archivo que visibiliza a las personas negras en y desde Puerto Rico. ¡Adelante!\n...\nMarch 7, 2026Lanzamiento de 6ta edición de Revista étnicaRevista étnica lanza su sexta edición dedicada al proyecto Archivo Negro para visibilizar legados familiares y comunitarios\n\nMarch 6, 2026ISMAEL RIVERA RIVERA: DESDE LA CAJA DE IVEEsta colección de Archivo Negro, curada por la bisnieta de Ismael Rivera junto a Revista Étnica y la Fundación Ismael Rivera, digitaliza fotos, cartas y recortes del archivo familiar para mostrar a Maelo más allá del artista: desde su faceta íntima como hijo, padre y abuelo.\n\nMarch 6, 2026Barrio La Cuarta: Negrura MultidimensionalEsta colección de Archivo Negro recoge fotos y testimonios del Barrio La Cuarta en Ponce, documentando sus familias, matriarcas, deportistas y el Festival Afrocaribeño como expresiones de resistencia y orgullo de esta comunidad negra.\n...\nArchivo Negro es gestado desde étnica y Movimiento Anansé Inc. Somos un movimiento de justicia social y creativo que da visibilidad y dignifica a las personas negras y sus comunidades.Sabemos que nuestra cultura ha sido invisibilizada. Este es un nuevo espacio de resistencia para presentar nuestra historia de aportaciones, luchas, creaciones y gestas desde la imagen y nuestra estética.\n...\nGloriann Sacha Antonetty Lebrón de Revista étnicaEs escritora, comunicadora y artivista afropuertorriqueña. Posee una maestría en Periodismo Investigativo de Florida International University. Ha sido profesora de comunicaciones en la Universidad Sagrado Corazón, de donde es egresada. Es la fundadora de Movimiento Anansé Inc. y Revista étnica, la primera plataforma multimedios y revista en Puerto Rico para visibilizar y representar positivamente a las comunidades negras.\n\nKiana Soto Andrades de Revista étnicaAfroboricua. Diseñadora arquitectónica y artista antirracista apasionada por el visual storytelling. Tiene un bachillerato en Diseño Ambiental (B.EnvD) y una maestría en Arquitectura (M.Arch) de la Universidad de Puerto Rico, Recinto de Río Piedras. Es parte del equipo de Revista étnica desde el 2019 y actualmente es la Head Designer de Movimiento Anansé Inc."
+    ],
+    "emails": [
+      "archivonegro@movimientoananse.org"
+    ],
+    "social_links": [
+      "https://www.instagram.com/archivo_negro/",
+      "https://www.youtube.com/@Archivo_Negro",
+      "https://www.facebook.com/profile.php?id=61552281286684"
+    ],
+    "contact_pages": [
+      "/about#historia",
+      "/about#equipo",
+      "/about",
+      "/about#colaboradores",
+      "/about#mission",
+      "/contact-us"
+    ],
+    "search_query": "Afro-descendant cultural archives and web projects",
+    "categorized": false
+  },
+  {
+    "title": "Museu Virtual Origens",
+    "url": "https://www.museuvirtualorigens.com.br/",
+    "description": "Um espaço interativo, colaborativo e emancipatório que conta a história dos itaparicanos promovendo o direito à sua memória, a igualdade histórica dos povos originários, africanos e africano-brasileiros.  O metaverso foi criado para dialogar com a insurgência/permanência dos povos originários, africanos e africanos-brasileiros na territorialidade produzindo o direito a salvaguarda de sua memória em uma perspectiva decolonial, celebrando a ancestralidade de afirmação das nossas origens.",
+    "published_date": null,
+    "highlights": [
+      "O MVO é o primeiro Museu Afro-indígena com uso do metaverso, um espaço colaborativo e emancipatório que conta a história dos Itaparicanos, promovendo o direito à sua memória, a igualdade histórica dos povos originários, africanos e africano-brasileiros. Para construir o contexto histórico de Itaparica foram consideradas as várias origens civilizatórias que compõem o território, a saber: os povos originários, a africana, a africano-brasileira e os portugueses. O espaço interativo metaverso foi criado para dialogar com a insurgência/permanência dos povos originários, africanos e africanos-brasileiros na territorialidade produzindo o direito a salvaguarda de sua memória em uma perspectiva decolonial, celebrando a ancestralidade de afirmação das nossas origens."
+    ],
+    "emails": [
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "museuvirtualorigens@gmail.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    ],
+    "social_links": [
+      "https://www.instagram.com/rosangelaaccioly/",
+      "https://www.facebook.com/MuseuVirtualOrigens/",
+      "https://www.youtube.com/@museuvirtualorigens",
+      "https://www.instagram.com/paulostoker/",
+      "https://www.instagram.com/museuvirtualorigens/"
+    ],
+    "contact_pages": [],
+    "search_query": "Afro-descendant cultural archives and web projects",
+    "categorized": false
+  },
+  {
+    "title": "AfroKuba | Proyecto Etnovisual",
+    "url": "https://www.afrokuba.com/en/",
+    "description": "Afrokuba es un proyecto etnovisual dedicado al rescate y preservación de las raíces de origen africano en la cultura cubana.",
+    "published_date": null,
+    "highlights": [
+      "AfroKuba | Proyecto Etnovisual\n\n## For the rescue and preservation of our African roots.\n\n \n\nAfrokuba es un proyecto Etnovisual que investiga etnomusicologicamete sobre el terreno la herencia de la cultura musical y danzaria, el ceremonial religioso de los Afrodescendientes cubanos en estas disciplinas rescatando las historias de vida de sus protagonistas esencialmente . Pertenece al comité cubano de la ruta del esclavo “ resistencia, libertad y patrimonio “ de la comisión cubana de la UNESCO.\n...\n### AfroKuba en Benín \n\n 4 de January de 2026 \n\nEn el marco de las celebraciones del Vodún y de los intercambios afroatlánticos contemporáneos, el proyecto etnovisual Afrokuba, dirigido por el profesor, cineasta y etnomusicólogo Miguel Ángel García Velasco inició un recorrido académico, cultural y espiritual por Benín.\n...\n### Tras la herencia de los pueblos bantú en Brasil \n\n 3 de November de 2025 \n\nEl proyecto Afrokuba se convierte en una potente red de investigación sobre las manifestaciones culturales en Cuba y su herencia con los pueblos bantú.\n...\nEl proyecto et ... AfroKuba estará representado por su director-fundador Miguel Ángel García Velasco en universidades y centros de Brasil, del 4 al 8 de noviembre de 2025.\n...\nEl proyecto Etnovisual AfroKuba comparte con sus seguidores el programa < > que se transmite originalmente en la emisora provincial de Matanzas Radio 26, a cargo del investigador MSc. Héctor Cantero Isasi. En cada una de sus emisiones, se analizan temas relacionados con la cultura afrocubana como la diáspora africana en la cultura nacional y la influencia de la Sociedad Secreta Abakuá en el arte cubano; la clave ñáñiga en la música cubana, la impronta de Ignacio Piñeiro y el aporte de relevantes figuras como el músico Brindis de Salas, el mártir matancero Felipe Espinola, entre otras.\n\n## Rostros de la Afrodescendencia\n\n \n\nROSTROS DE LA AFRODESCENDENCIA es el capítulo que inaugura el proyecto etnovisual Afrokuba como espacio de divulgación y promoción del quehacer creativo de personalidades afrodescendientes de nuestro país y del Caribe . Y lo hacemos justamente el 20 de Octubre Dia de la cultura patria como homenaje a todos aquellos que han vivido por y para el regocijo espiritual e intelectual de nuestro pueblo."
+    ],
+    "emails": [
+      "%20info@afrokuba.net"
+    ],
+    "social_links": [
+      "https://www.instagram.com/afrokuba/",
+      "https://www.facebook.com/afrokuba/",
+      "https://www.youtube.com/channel/UCW3L5I3lMIl3vA3XaNbiyWA?app=desktop"
+    ],
+    "contact_pages": [],
+    "search_query": "Afro-descendant cultural archives and web projects",
+    "categorized": false
+  },
+  {
+    "title": "Archivo Negro - Nuestra misión y visión",
+    "url": "https://www.archivonegro.org/about",
+    "description": "Archivo Negro: Explora la rica cultura afrodescendiente en Puerto Rico. Imágenes, arte y documentos históricos que celebran y preservan nuestra herencia. Descubre, aprende y conecta con nuestra historia.",
+    "published_date": null,
+    "highlights": [
+      "Nuestra misión es rescatar, preservar y resaltar las identidades de las personas negras y afrodescendientes. A través de nuestras plataformas multimediáticas le daremos visibilidad, amplificaremos sus voces, daremos representación positiva y poder.\n...\nArchivo Negro es una iniciativa sin precedentes en Puerto Rico, dedicada a recopilar, preservar y compartir la rica historia y cultura afrodescendiente desde el Caribe, en toda la región y las diásporas africanas. La falta de un archivo visual consolidado que refleje la vida, las contribuciones, las estéticas y la cultura negra en Puerto Rico ha sido una carencia significativa en el panorama histórico y cultural. Este proyecto surge para llenar este vacío, ofreciendo una ventana única a la diversa historia afrodescendiente.\n...\nLa misión de Archivo Negro es mucho más que la mera recopilación de imágenes y documentos. Con nuestro archivo buscamos compartir y re-imaginar las memorias visuales que parten de nuestras familias, artistas, documentalistas, afrodescendientes y quienes se han dedicado a documentar nuestra cultura en todas sus dimensiones. Es un esfuerzo por reconocer y celebrar una herencia que ha sido, en muchos aspectos, invisibilizada, mal representada y en otros casos: apropiada.\n...\nEste archivo es una declaración de identidad y orgullo. En un mundo que nos ha hecho pensar que lo negro no pertenece, que nos ha hipersexualizado y deshumaniza, es necesario presentar lo que somos en nuestra esencia, desde nuestros y perspectivas. Nos enfocamos en presentar una narrativa auténtica y dignificante que inspire y eduque a las presentes y futuras generaciones. Las imágenes y videos recopilados cuentan y contarán historias de vidas cotidianas, cimarronaje, arte y comunidad. Capturando momentos que reflejan no solo la historia sino también la vitalidad, belleza y poder de nuestra negritud.\n...\nA través de la colaboración con familias, artistas, documentalistas, y toda la comunidad afro que nos acompaña, Archivo Negro, reúne una vasta gama de materiales que reflejan la diversidad y riqueza de la experiencia afrodescendiente. La colaboración con instituciones que se han dedicado a preservar y a mantener nuestras imágenes es crítica para este proyecto. Desde el archivo queremos restaurar, presentar y preservar algunas de estas imágenes y videos, siempre salvaguardando la protección de la propiedad intelectual de les autores, las personas en las fotografías y/o videos y toda la comunidad.\n...\nLa visión de Archivo Negro es ser un recurso líder que conecte a la comunidad afrodiaspórica global con la rica historia y cultura afrodescendiente de y desde Puerto Rico y el Caribe. La plataforma en línea permite a les usuaries de todo el mundo acceder y explorar el archivo, fomentando un entendimiento profundo y aprecio por la diversidad y las interseccionalidades de las identidades afrodescendientes.\n...\nArchivo Negro no es solo una herramienta de investigación; es un recurso educativo que promueve el compromiso con la historia y la memoria de la negritud. A través de exposiciones, talleres, blog posts y otros medios, educa y fomenta un diálogo abierto y reflexivo sobre temas críticos como la representación, la identidad y la dignidad.\n\nArchivo Negro, más que un proyecto; se suma al movimiento de étnica y Movimiento Anansé como una reafirmación de nuestra cultura con la gente negra al frente, al centro y como protagonistas. Es un recordatorio de que la historia y la cultura afrodescendiente en Puerto Rico, en el Caribe, en las Américas y en todo el mundo merecen ser celebradas, comprendidas y compartidas. Al conservar y presentar estas imágenes y relatos, se convierte en un testimonio perdurable de una herencia rica y poderosa. Su existencia asegura que la historia de las comunidades afrodescendientes nunca será olvidada, y su legado continuará inspirando y fortaleciendo a quienes lo encuentren.\n\nArchivo Negro es un tributo a la cultura, un homenaje a nuestres ancestres, una celebración de la diversidad y un llamado a la acción para honrar y preservar nuestro legado.\n...\nGloriann Sacha Antonetty Lebrón – Es escritora, comunicadora y artivista afropuertorriqueña. Posee una maestría en Periodismo Investigativo de Florida International University. Ha sido profesora de comunicaciones en la Universidad Sagrado Corazón, de donde es egresada. Es la fundadora de Movimiento Anansé Inc. y Revista étnica, la primera plataforma multimedios y revista en Puerto Rico para visibilizar y representar positivamente a las comunidades negras.\n...\nNuestros colaboradores, quienes son inversionistas clave, juegan un rol esencial en la creación de Archivo Negro. Su compromiso y apoyo nos permite seguir resaltando y valorando la cultura afrodescendiente de Puerto Rico."
+    ],
+    "emails": [
+      "archivonegro@movimientoananse.org"
+    ],
+    "social_links": [
+      "https://www.instagram.com/archivo_negro/",
+      "https://www.youtube.com/@Archivo_Negro",
+      "https://www.facebook.com/profile.php?id=61552281286684"
+    ],
+    "contact_pages": [
+      "/about#historia",
+      "/about#equipo",
+      "/about",
+      "/about#colaboradores",
+      "/about#mission",
+      "/contact-us"
+    ],
+    "search_query": "Afro-descendant cultural archives and web projects",
+    "categorized": false
+  }
 ]
