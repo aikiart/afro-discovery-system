@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { db } from '../website/lib/firebase';
 import { collection, onSnapshot, query } from 'firebase/firestore';
+import CountryFilter from './components/CountryFilter';
 
 const TARGET_COLLECTION = 'afro_centric_apps';
 
@@ -23,6 +24,7 @@ export default function App() {
   const [error, setError] = useState(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('All');
+  const [selectedCountry, setSelectedCountry] = useState('');
 
   useEffect(() => {
     setLoading(true);
@@ -51,7 +53,8 @@ export default function App() {
               summary: data.summary || data.description || data.overview || data.details || 'No description provided.',
               url: rawUrl,
               category: data.category || data.type || 'Literature and Publishing',
-              location: data.location || null,
+              location: data.location || data.country || null,
+              country: data.country || data.location || null,
               tags: data.tags || ['#technology', '#mobile-app', '#digital-platform'],
               contactEmail: data.contactEmail || data.email || null,
             };
@@ -80,21 +83,36 @@ export default function App() {
     return () => unsubscribe();
   }, []);
 
+  // Extract unique categories
   const categories = useMemo(() => {
     const set = new Set(platforms.map((p) => p.category).filter(Boolean));
     return ['All', ...Array.from(set)];
   }, [platforms]);
 
+  // Dynamically extract unique countries for CountryFilter
+  const availableCountries = useMemo(() => {
+    const set = new Set(
+      platforms
+        .map((p) => p.country || p.location)
+        .filter((loc) => loc && typeof loc === 'string' && loc.trim() !== '')
+    );
+    return Array.from(set).sort();
+  }, [platforms]);
+
+  // Combined filtering logic (Search query + Category + Country)
   const filteredPlatforms = useMemo(() => {
     return platforms.filter((item) => {
       const titleMatch = (item.title || '').toLowerCase().includes(searchQuery.toLowerCase());
       const descMatch = (item.summary || '').toLowerCase().includes(searchQuery.toLowerCase());
       const locationMatch = (item.location || '').toLowerCase().includes(searchQuery.toLowerCase());
       const catMatch = selectedCategory === 'All' || item.category === selectedCategory;
+      
+      const itemCountry = item.country || item.location;
+      const countryMatch = !selectedCountry || itemCountry === selectedCountry;
 
-      return (titleMatch || descMatch || locationMatch) && catMatch;
+      return (titleMatch || descMatch || locationMatch) && catMatch && countryMatch;
     });
-  }, [platforms, searchQuery, selectedCategory]);
+  }, [platforms, searchQuery, selectedCategory, selectedCountry]);
 
   return (
     <div style={styles.pageWrapper}>
@@ -135,6 +153,13 @@ export default function App() {
             ))}
           </select>
         </section>
+
+        {/* Dynamic Country Filter Component */}
+        <CountryFilter
+          countries={availableCountries}
+          selectedCountry={selectedCountry}
+          onSelectCountry={setSelectedCountry}
+        />
 
         {/* Live Counter with Singular / Plural Logic */}
         <div style={styles.countText}>
@@ -433,13 +458,3 @@ const styles = {
     padding: '3rem 0',
   },
 };
-
-import ReactDOM from "react-dom/client";
-const rootElement = document.getElementById("root");
-if (rootElement && !rootElement.hasChildNodes()) {
-  ReactDOM.createRoot(rootElement).render(
-    <React.StrictMode>
-      <App />
-    </React.StrictMode>
-  );
-}
