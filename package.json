@@ -1,0 +1,7 @@
+{
+  "name": "afro-discovery-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix website exec vite"
+  }
+}

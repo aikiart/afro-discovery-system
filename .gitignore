@@ -5,3 +5,9 @@ __pycache__/
 config/*.json
 .env
 *serviceAccountKey*.json
+<<<<<<< HEAD
+=======
+
+.env
+*serviceAccountKey*.json
+>>>>>>> 8ffe9f4 (Configure root package.json dev delegation and restore firebase.ts)
