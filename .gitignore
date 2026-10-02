@@ -1,13 +1,40 @@
+# Dependencies & Build Output
+node_modules/
+dist/
+dist-isolation/
+.vite/
+.out/
 venv/
-.env
 __pycache__/
 *.pyc
-config/*.json
-.env
-*serviceAccountKey*.json
-<<<<<<< HEAD
-=======
 
+# Local Environment & Secrets
 .env
+.env.local
+.env.*.local
+serviceAccount.json
+serviceAccountKey.json
+serviceAccount*.json
 *serviceAccountKey*.json
->>>>>>> 8ffe9f4 (Configure root package.json dev delegation and restore firebase.ts)
+config/*.json
+*.key
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor & System Files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
