@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { db } from '../website/lib/firebase';
+import { db } from './lib/firebase';
 import { collection, onSnapshot, query } from 'firebase/firestore';
 import CountryFilter from './components/CountryFilter';
 
