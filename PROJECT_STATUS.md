@@ -1,295 +1,97 @@
-# Afro Discovery System - Project Status
+Set-Content -Path "I:\afro-discovery-system\PROJECT_CONTEXT.md" -Value @"
+# Project Context: Afro-Discovery System
 
-## Project Goal
-
-Build a centralized directory of African, Afrocentric, Black-owned, and community-focused organizations.
-
-The system will:
-
-1. Discover organizations
-2. Collect website information
-3. Collect contact information
-4. Store structured data in Firestore
-5. Provide data to a public directory website
+## 1. Project Overview & Architecture
+- **Web App Domain:** \`https://afro-discovery-system.web.app\`
+- **Repository:** \`https://github.com/aikiart/afro-discovery-system\`
+- **Purpose:** Discovery platform indexing Afrocentric digital archives, literature, tech initiatives, and platforms.
+- **Frontend Stack:** React, Vite, Tailwind CSS, Firebase Client SDK (\`onSnapshot\` for live Firestore streaming).
+- **Backend/Scraper:** Autonomous Python pipeline using Exa AI (\`exa-py\`), BeautifulSoup4, and Google Auth REST APIs.
+- **Database:** Google Firebase Cloud Firestore (\`afro_centric_apps\` collection).
 
 ---
 
-## Target Directory Data
-
-Each organization record should contain:
-
-- Site Name
-- URL
-- Description
-- Contact Emails
-- Contact Pages
-- Social Media Links
-- Category
-- Tags
-
-Optional future fields:
-
-- Phone Numbers
-- Geographic Region
-- Country
-- Industry
-- Verification Status
+## 2. Key Components & Implementation Details
+- **Autonomous Scraper:** Located at \`agents/scraper_agent.py\`.
+- **Search Engine:** Integrates Exa AI (\`EXA_API_KEY\`) with neural queries for platform discovery.
+- **REST Transport Fix:** Uses standard HTTP REST (\`requests.patch\`) with Google OAuth2 tokens to bypass gRPC transport socket hangs on Windows.
+- **Deduplication:** Uses deterministic URL-encoded hashes (\`make_doc_id\`) as Firestore document IDs.
+- **Scraping Agent:** Extracts metadata (\`og:title\`, \`og:description\`) and email contacts while filtering non-HTML assets.
 
 ---
 
-## Current Version
-
-Version 1.5
-
----
-
-## Infrastructure
-
-✅ GitHub Repository Created
-
-✅ Firebase Project Created
-
-✅ Firestore Database Created
-
-✅ Firebase Admin SDK Connected
-
-✅ Firestore Read/Write Verified
-
-✅ Document ID Verification Tested
+## 3. Environment & Local Setup
+- **Directory:** \`I:\afro-discovery-system\`
+- **Python Virtual Env:** \`venv/\`
+- **Secrets Management:** 
+  - Service account keys (\`serviceAccountKey.json\`, \`serviceAccount.json\`) reside locally in root or \`agents/\` and are strictly ignored in \`.gitignore\`.
+  - Exa API Key loaded via environment variable: \`\$env:EXA_API_KEY="..."\`
+- **Git Rules:** Push protection enabled on GitHub; service keys are untracked.
 
 ---
 
-## Agents
+## 4. How to Run the Pipeline
+\`\`\`powershell
+# Navigate to project root
+cd I:\afro-discovery-system
 
-### Discovery Agent
+# Activate virtual environment (if applicable)
+.\venv\Scripts\Activate.ps1
 
-✅ Discovery Query Loading
-
-✅ Discovery Source Loading
-
-✅ Multi-Site Discovery
-
-### Scraper Agent
-
-✅ Homepage Scraping
-
-✅ Metadata Extraction
-
-✅ Description Extraction
-
-✅ Email Extraction
-
-✅ Social Media Extraction
-
-✅ Contact Page Discovery
-
-### Categorizer Agent
-
-✅ Business Detection
-
-✅ Fintech Detection
-
-✅ Education Detection
-
-✅ Health Detection
-
-✅ Community Detection
-
-### Database Agent
-
-✅ Firestore Writes
-
-✅ Duplicate Detection
-
-✅ Firestore Read Verification
+# Set Exa API Key and execute discovery agent
+\$env:EXA_API_KEY="<YOUR_EXA_API_KEY>"
+python agents/scraper_agent.py
+\`\`\`
 
 ---
 
-## Successfully Verified Data Collection
+## 5. Future Roadmap & Expansion Ideas
+- Add new topic queries to \`discovery_jobs\` inside \`scraper_agent.py\`.
+- Expand frontend filtering by category, country, or tags in \`App.jsx\`.
+- Add automated scheduled runs via GitHub Actions or cloud cron jobs.
+"@ -Encoding UTF8
 
-### Flutterwave Test
 
-Verified collection of:
+10/5/2026
+# Project Context: Afro-Discovery System
 
-✅ Site Name
-
-✅ Description
-
-✅ Multiple Emails
-
-✅ Social Links
-
-✅ Contact Pages
-
-Stored successfully in Firestore and verified through direct document lookup.
-
----
-
-## Firestore Status
-
-Collection:
-
-```text
-resources
-```
-
-Current verified fields:
-
-```text
-site_name
-url
-description
-emails
-phones
-social_links
-contact_pages
-category
-tags
-```
+## 1. Project Overview & Architecture
+- **Web App Domain:** `https://afro-discovery-system.web.app`
+- **Repository:** `https://github.com/aikiart/afro-discovery-system`
+- **Purpose:** Discovery platform indexing Afrocentric digital archives, literature, tech initiatives, and platforms.
+- **Frontend Stack:** React, Vite, Tailwind CSS, Firebase Client SDK (`onSnapshot` for live Firestore streaming).
+- **Backend/Scraper:** Autonomous Python pipeline using Exa AI (`exa-py`), BeautifulSoup4, and Google Auth REST APIs.
+- **Database:** Google Firebase Cloud Firestore (`afro_centric_apps` collection).
 
 ---
 
-## Current Pipeline
-
-```text
-Discovery Sources
-        ↓
-Discovery Agent
-        ↓
-Scraper Agent
-        ↓
-Categorizer Agent
-        ↓
-Database Agent
-        ↓
-Firestore
-```
-
-Status:
-
-✅ Operational
+## 2. Key Components & Implementation Details
+- **Autonomous Scraper:** Located at `agents/scraper_agent.py`.
+- **Search Engine:** Integrates Exa AI (`EXA_API_KEY`) with targeted neural queries across 5 distinct categories.
+- **REST Transport Fix:** Uses standard HTTP REST (`requests.patch`) with Google OAuth2 tokens to bypass gRPC transport socket hangs on Windows.
+- **Deduplication:** Uses deterministic URL-encoded hashes (`make_doc_id`) as Firestore document IDs.
+- **Filtering & Reliability:** Pre-filters non-HTTPS sites, sets extended read timeouts (10s), and extracts OpenGraph metadata and contact emails.
 
 ---
 
-## Known Issues
-
-### Duplicate Handling
-
-Current:
-
-```text
-Duplicate Found
-        ↓
-Skip Record
-```
-
-Desired:
-
-```text
-Duplicate Found
-        ↓
-Update Existing Record
-        ↓
-Merge New Data
-```
-
-### Phone Collection
-
-Currently disabled.
-
-Reason:
-
-Homepage scraping generates false positives from:
-
-- dates
-- image dimensions
-- IDs
-
-Future approach:
-
-Extract phones from contact pages only.
+## 3. Environment & Local Setup
+- **Directory:** `I:\afro-discovery-system`
+- **Python Virtual Env:** `venv/`
+- **Secrets Management:** 
+  - Service account keys (`serviceAccountKey.json`, `serviceAccount.json`) reside locally in root or `agents/` and are strictly ignored in `.gitignore`.
+  - Exa API Key loaded via environment variable: `$env:EXA_API_KEY="..."`
+- **Git Rules:** Push protection enabled on GitHub; service keys are untracked.
 
 ---
 
-## Immediate Next Milestone
+## 4. How to Run the Pipeline
+```powershell
+# Navigate to project root
+cd I:\afro-discovery-system
 
-### Firestore Export
+# Activate virtual environment
+.\venv\Scripts\Activate.ps1
 
-Goal:
-
-Export Firestore records into a format consumable by a website.
-
-Example:
-
-```json
-{
-  "site_name": "Flutterwave",
-  "url": "https://flutterwave.com",
-  "description": "...",
-  "emails": [
-    "hi@flutterwavego.com"
-  ],
-  "social_links": [],
-  "category": "Fintech"
-}
-```
-
-Purpose:
-
-- Website Integration
-- Data Backup
-- Testing
-- Development
-
----
-
-## Future Roadmap
-
-### Version 2
-
-- Firestore Export
-- Record Updating
-- Contact Page Deep Scraping
-- Better Categorization
-
-### Version 3
-
-- Website API
-- Search Functionality
-- Filtering By Category
-- Organization Profiles
-
-### Version 4
-
-- Automated Discovery
-- AI Categorization
-- Organization Scoring
-- Verification Workflow
-
----
-
-## Success Criteria
-
-The project is successful when:
-
-1. New organizations are discovered automatically
-2. Contact information is collected automatically
-3. Data is stored in Firestore
-4. Data is accessible by a public website
-5. Users can browse all organizations from a single directory
-
----
-
-## Current Status
-
-Infrastructure: ✅ Complete
-
-Discovery: ✅ Working
-
-Scraping: ✅ Working
-
-Storage: ✅ Working
-
-Directory Export: 🚧 Next Phase
-
-Website Development: ⏳ Planned
+# Set Exa API Key and execute discovery agent
+$env:EXA_API_KEY="<YOUR_EXA_API_KEY>"
+python agents/scraper_agent.py

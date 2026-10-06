@@ -75,7 +75,7 @@ class ScraperAgent:
             response = requests.get(
                 url, 
                 headers=self.headers, 
-                timeout=(4.0, 5.0), 
+                timeout=(6.0, 10.0), 
                 verify=False
             )
             
@@ -119,21 +119,36 @@ def make_doc_id(url):
     return urllib.parse.quote_plus(clean_url).replace('%', '_')[:100]
 
 
-def push_to_firestore_rest(record, category="Literature and Publishing"):
+def push_to_firestore_rest(record, category="Literature and Publishing", dry_run=False):
+    if not record["url"] or not record["title"]:
+        return
+
+    doc_id = make_doc_id(record["url"])
+
+    # Dry-run check: print payload without calling Google Cloud REST APIs
+    if dry_run:
+        print(f"  🧪 [DRY RUN] Would write document '{doc_id}' to Firestore:")
+        payload_preview = {
+            "doc_id": doc_id,
+            "title": record["title"],
+            "url": record["url"],
+            "category": category,
+            "contactEmail": record["contactEmail"]
+        }
+        print(json.dumps(payload_preview, indent=4))
+        return
+
     if not CREDS:
         print("  ⚠️ Skipped Firestore write: No credentials loaded.")
         return
 
     try:
-        # Obtain Google OAuth2 access token for standard REST request
         auth_req = google.auth.transport.requests.Request()
         CREDS.refresh(auth_req)
         access_token = CREDS.token
 
-        doc_id = make_doc_id(record["url"])
         endpoint = f"https://firestore.googleapis.com/v1/projects/{PROJECT_ID}/databases/(default)/documents/{TARGET_COLLECTION}/{doc_id}"
 
-        # Construct Firestore REST Payload
         payload = {
             "fields": {
                 "url": {"stringValue": record["url"]},
@@ -170,7 +185,7 @@ def push_to_firestore_rest(record, category="Literature and Publishing"):
         print(f"  ⚠️ Firestore write error: {e}")
 
 
-def run_exa_discovery(query_prompt, num_results=5, category="Literature and Publishing"):
+def run_exa_discovery(query_prompt, num_results=10, category="Literature and Publishing", dry_run=False):
     api_key = os.environ.get("EXA_API_KEY")
     if not api_key:
         print("❌ Error: EXA_API_KEY environment variable is not set.")
@@ -186,14 +201,18 @@ def run_exa_discovery(query_prompt, num_results=5, category="Literature and Publ
             type="neural"
         )
         
-        discovered_urls = [item.url for item in results.results]
-        print(f"✨ Exa discovered {len(discovered_urls)} candidate URLs.")
+        discovered_urls = [
+            item.url for item in results.results 
+            if item.url and item.url.lower().startswith('https://')
+        ]
+        print(f"✨ Exa discovered {len(discovered_urls)} valid HTTPS candidate URLs.")
 
         agent = ScraperAgent()
         for url in discovered_urls:
             scraped_data = agent.scrape(url)
-            print(f"   Fetched: {scraped_data['title']} | Contact Email: {scraped_data['contactEmail']}")
-            push_to_firestore_rest(scraped_data, category=category)
+            if scraped_data["url"] and scraped_data["title"]:
+                print(f"   Fetched: {scraped_data['title']} | Email: {scraped_data['contactEmail']}")
+                push_to_firestore_rest(scraped_data, category=category, dry_run=dry_run)
             print("-" * 55)
 
     except Exception as e:
@@ -202,19 +221,3 @@ def run_exa_discovery(query_prompt, num_results=5, category="Literature and Publ
 
 if __name__ == "__main__":
     print("\n🚀 Initializing Autonomous Exa-Powered Discovery Engine...\n")
-    
-    discovery_jobs = [
-        {
-            "query": "Afrocentric digital archives literature publishing platforms", 
-            "category": "Literature and Publishing"
-        },
-        {
-            "query": "Black tech organizations, directories, and innovation platforms", 
-            "category": "Technology and Innovation"
-        }
-    ]
-    
-    for job in discovery_jobs:
-        run_exa_discovery(job["query"], num_results=3, category=job["category"])
-        
-    print("\n✨ Autonomous discovery process finished.")
